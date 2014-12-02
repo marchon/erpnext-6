@@ -1,0 +1,3677 @@
+ (Half Day),
+ and year: ,
+""" does not exists",""""""" nem létezik"""
+%  Delivered,%  kiszállítva
+% Amount Billed,% mennyiség számlázva
+% Billed,% számlázva
+% Completed,% kész
+% Delivered,% kiszállítva
+% Installed,% telepítve
+% Milestones Achieved,
+% Milestones Completed,% mérföldkő elvégezve
+% Received,% fogadva
+% Tasks Completed,% feladat elvégezve
+% of materials billed against this Purchase Order.,
+% of materials billed against this Sales Order,
+% of materials delivered against this Delivery Note,
+% of materials delivered against this Sales Order,
+% of materials ordered against this Material Request,
+% of materials received against this Purchase Order,
+'Actual Start Date' can not be greater than 'Actual End Date',
+'Based On' and 'Group By' can not be same,
+'Days Since Last Order' must be greater than or equal to zero,
+'Entries' cannot be empty,
+'Expected Start Date' can not be greater than 'Expected End Date',
+'From Date' is required,
+'From Date' must be after 'To Date',
+'Has Serial No' can not be 'Yes' for non-stock item,
+'Notification Email Addresses' not specified for recurring %s,
+'Profit and Loss' type account {0} not allowed in Opening Entry,
+'To Case No.' cannot be less than 'From Case No.',
+'To Date' is required,
+'Update Stock' for Sales Invoice {0} must be set,
+* Will be calculated in the transaction.,
+"**Budget Distribution** helps you distribute your budget across months if you have seasonality in your business.
+
+To distribute a budget using this distribution, set this **Budget Distribution** in the **Cost Center**",
+**Currency** Master,
+**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,
+"1 Currency = [?] Fraction
+For e.g. 1 USD = 100 Cent",
+1. To maintain the customer wise item code and to make them searchable based on their code use this option,
+90-Above,
+"<a href=""#Sales Browser/Customer Group"">Add / Edit</a>","""<a href=""""#Sales Browser/Customer Group"""">Új / Szerkesztés</a>"""
+"<a href=""#Sales Browser/Item Group"">Add / Edit</a>","""<a href=""""""""#Sales Browser/Item Group"""""""">Új / Szerkesztés</a>"""
+"<a href=""#Sales Browser/Territory"">Add / Edit</a>","""<a href=""""""""#Sales Browser/Territory"""""""">Új / Szerkesztés</a>"""
+"<h4>Default Template</h4>
+<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>
+<pre><code>{{ address_line1 }}&lt;br&gt;
+{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}
+{{ city }}&lt;br&gt;
+{% if state %}{{ state }}&lt;br&gt;{% endif -%}
+{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}
+{{ country }}&lt;br&gt;
+{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}
+{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}
+{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}
+</code></pre>",
+A Customer Group exists with same name please change the Customer name or rename the Customer Group,
+A Customer exists with same name,
+A Lead with this email id should exist,Egy célpont ezzel az email címmel már létezik
+A Product or Service,
+"A Product or a Service that is bought, sold or kept in stock.",
+A Supplier exists with same name,
+A condition for a Shipping Rule,
+A logical Warehouse against which stock entries are made.,
+A symbol for this currency. For e.g. $,
+A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission.,
+"A user with ""Expense Approver"" role",
+AMC Expiry Date,Éves karbantartási szerződés lejárati dátuma
+Abbr,Röv.
+Abbreviation cannot have more than 5 characters,
+Above Value,
+Absent,Hiányzik
+Acceptance Criteria,Elfogadási határ
+Accepted,Elfogadva
+Accepted + Rejected Qty must be equal to Received quantity for Item {0},
+Accepted Quantity,Elfogadott mennyiség
+Accepted Warehouse,Elfogadott raktár
+Account,Számla
+Account Balance,Számla egyenleg
+Account Created: {0},
+Account Details,Számla adatok
+Account Group,
+Account Head,Számla fejléc
+Account Name,Számla név
+Account Type,Számla típus
+"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'",
+"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'",
+Account for the warehouse (Perpetual Inventory) will be created under this Account.,
+Account head {0} created,
+Account must be a balance sheet account,
+Account with child nodes cannot be converted to ledger,
+Account with existing transaction can not be converted to group.,
+Account with existing transaction can not be deleted,
+Account with existing transaction cannot be converted to ledger,
+Account {0} cannot be a Group,
+Account {0} does not belong to Company {1},
+Account {0} does not belong to company: {1},
+Account {0} does not exist,
+Account {0} does not exists,
+Account {0} has been entered more than once for fiscal year {1},
+Account {0} is frozen,
+Account {0} is inactive,
+Account {0} is not valid,
+Account {0} must be of type 'Fixed Asset' as Item {1} is an Asset Item,
+Account {0}: Parent account {1} can not be a ledger,
+Account {0}: Parent account {1} does not belong to company: {2},
+Account {0}: Parent account {1} does not exist,
+Account {0}: You can not assign itself as parent account,
+Account: {0} can only be updated via Stock Transactions,
+Accountant,
+Accounting,Könyvelés
+"Accounting Entries can be made against leaf nodes, called",
+Accounting Entry for Stock,
+"Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.",
+Accounting journal entries.,
+Accounts,Könyvelés
+Accounts Browser,
+Accounts Frozen Upto,A számlák be vannak fagyasztva eddig
+Accounts Manager,
+Accounts Payable,Fizethető számlák
+Accounts Receivable,
+Accounts Settings,Könyvelés beállításai
+Accounts User,
+Achieved,
+Active,Aktív
+Active: Will extract emails from ,
+Activity,Tevékenység
+Activity Log,Tevékenység lista
+Activity Log:,
+Activity Type,Tevékenység típusa
+Actual,
+Actual Budget,Jelenlegi költség
+Actual Completion Date,Tényleges befejezés dátuma
+Actual Date,Jelenlegi dátum
+Actual End Date,Jelenlegi záró dátum
+Actual Invoice Date,Jelenlegi számlázási dátum
+Actual Posting Date,Aktuális rögzítés dátuma
+Actual Qty,Aktuális db.
+Actual Qty (at source/target),
+Actual Qty After Transaction,
+Actual Qty is mandatory,
+Actual Qty: Quantity available in the warehouse.,Aktuális mennyiség: az elérhető mennyiség a raktárban
+Actual Quantity,Aktuális mennyiség
+Actual Start Date,Jelenlegi kezdő dátum
+Add,Hozzáadás
+Add / Edit Prices,
+Add / Edit Taxes and Charges,Adók és költségek hozzáadása / szerkesztése
+Add Child,
+Add Serial No,
+Add Taxes,
+Add or Deduct,
+Add rows to set annual budgets on Accounts.,
+Add to Cart,
+Add to calendar on this date,
+Add/Remove Recipients,
+Address,Cím
+Address & Contact,Cím és Kapcsolattartó
+Address & Contacts,Címek és Kapcsolattartók
+Address Desc,Cím leírása
+Address Details,Cím részletei
+Address HTML,
+Address Line 1,1. cím sor
+Address Line 2,2. cím sor
+Address Template,Címlista sablon
+Address Title,Cím címe
+Address Title is mandatory.,
+Address Type,Cím típusa
+Address master.,
+Administrative Expenses,
+Administrative Officer,
+Administrator,
+Advance Amount,Előleg
+Advance Paid,
+Advance amount,Előleg
+"Advance paid against {0} {1} cannot be greater \
+					than Grand Total {2}",
+Advances,Előlegek
+Advertisement,Hirdetés
+Advertising,
+Aerospace,
+After Sale Installations,
+Against,Ellen
+Against Account,Ellen számla
+Against Docname,
+Against Doctype,
+Against Document Detail No,
+Against Document No,
+Against Expense Account,
+Against Income Account,
+Against Invoice,
+Against Invoice Posting Date,
+Against Journal Voucher,
+Against Journal Voucher {0} does not have any unmatched {1} entry,
+Against Journal Voucher {0} is already adjusted against some other voucher,
+Against Purchase Invoice,
+Against Purchase Order,
+Against Sales Invoice,
+Against Sales Order,
+Against Supplier Invoice {0} dated {1},
+Against Voucher,
+Against Voucher No,
+Against Voucher Type,Ellen-bizonylat típusa
+"Against Voucher Type must be one of Purchase Order, Purchase Invoice or Journal Voucher",
+"Against Voucher Type must be one of Sales Order, Sales Invoice or Journal Voucher",
+Age,
+Ageing Based On,
+Ageing Date is mandatory for opening entry,
+Ageing date is mandatory for opening entry,
+Agent,Ügynök
+"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. 
+
+The package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".
+
+For Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Sales BOM Item.
+
+Note: BOM = Bill of Materials",
+Aging Date,
+Aging Date is mandatory for opening entry,
+Agriculture,
+Airline,
+All,
+All Addresses.,Minden cím.
+All Contact,Minden Kapcsolattartó
+All Contacts.,Minden Kapcsolattartó.
+All Customer Contact,Minden vevői Kapcsolattartó
+All Customer Groups,
+All Day,Minden nap
+All Employee (Active),
+All Item Groups,
+All Lead (Open),
+All Products or Services.,Minden termék és szolgáltatás.
+All Sales Partner Contact,Minden értékesítő kapcsolata
+All Sales Person,Minden értékesítő
+All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,
+All Supplier Contact,
+All Supplier Types,
+All Territories,
+"All export related fields like currency, conversion rate, export total, export grand total etc are available in Delivery Note, POS, Quotation, Sales Invoice, Sales Order etc.",
+"All import related fields like currency, conversion rate, import total, import grand total etc are available in Purchase Receipt, Supplier Quotation, Purchase Invoice, Purchase Order etc.",
+All items have already been invoiced,
+All these items have already been invoiced,
+Allocate,
+Allocate leaves for a period.,
+Allocate leaves for the year.,
+Allocated,
+Allocated Amount,Lefoglalt mennyiség
+Allocated Budget,Lefoglalt költségkeret
+Allocated amount,Lefoglalt mennyiség
+Allocated amount can not be negative,
+Allocated amount can not greater than unadusted amount,
+Allow Bill of Materials,Anyagjegyzék készül belőle?
+Allow Bill of Materials should be 'Yes'. Because one or many active BOMs present for this item,"Az Anyagjegyzék készül belőle? opció legyen 'Igen', mert egy vagy több BOM hivatkozik rá"
+Allow Children,
+Allow Dropbox Access,
+Allow Google Drive Access,
+Allow Negative Balance,
+Allow Negative Stock,Negatív készlet engedélyezése
+Allow Production Order,Gyártási rendelés engedélyezése
+Allow User,
+Allow Users,
+Allow the following users to approve Leave Applications for block days.,
+Allow user to edit Price List Rate in transactions,
+Allowance Percent,Százalékos eltérés
+Allowance for over-{0} crossed for Item {1},
+Allowance for over-{0} crossed for Item {1}.,
+Allowed Role to Edit Entries Before Frozen Date,
+Amended From,
+Amount,Összeg
+Amount (Company Currency),
+Amount Paid,
+Amount to Bill,
+Amounts not reflected in bank,
+Amounts not reflected in system,
+Amt,
+An Customer exists with same name,
+"An Item Group exists with same name, please change the item name or rename the item group",
+"An item exists with same name ({0}), please change the item group name or rename the item",
+Analyst,
+Annual,
+Another Period Closing Entry {0} has been made after {1},
+Another Salary Structure {0} is active for employee {1}. Please make its status 'Inactive' to proceed.,
+"Any other comments, noteworthy effort that should go in the records.",
+Apparel & Accessories,
+Applicability,Alkalmazhatóság
+Applicable Charges,
+Applicable For,
+Applicable Holiday List,
+Applicable Territory,
+Applicable To (Designation),
+Applicable To (Employee),
+Applicable To (Role),
+Applicable To (User),
+Applicant Name,
+Applicant for a Job,
+Applicant for a Job.,
+Application of Funds (Assets),
+Applications for leave.,
+Applies to Company,
+Apply / Approve Leaves,
+Apply On,
+Appraisal,Teljesítmény értékelés
+Appraisal Goal,Teljesítmény értékelés célja
+Appraisal Goals,Teljesítmény értékelés céljai
+Appraisal Template,Teljesítmény értékelő sablon
+Appraisal Template Goal,Teljesítmény értékelő sablon célja
+Appraisal Template Title,Teljesítmény értékelő sablon címe
+Appraisal {0} created for Employee {1} in the given date range,
+Apprentice,
+Approval Status,Jóváhagyás állapota
+Approval Status must be 'Approved' or 'Rejected',
+Approved,Jóváhagyott
+Approver,Jóváhagyó
+Approving Role,
+Approving Role cannot be same as role the rule is Applicable To,
+Approving User,Jóváhagyó felhasználó
+Approving User cannot be same as user the rule is Applicable To,
+Are you sure you want to STOP ,
+Are you sure you want to UNSTOP ,
+Arrear Amount,
+"As Production Order can be made for this item, it must be a stock item.",
+As per Stock UOM,
+"As there are existing stock transactions for this item, you can not change the values of 'Has Serial No', 'Has Batch No', 'Is Stock Item' and 'Valuation Method'",
+Asset,
+Assistant,
+Associate,
+Atleast one of the Selling or Buying must be selected,
+Atleast one warehouse is mandatory,
+Attach Image,
+Attach Letterhead,
+Attach Logo,
+Attach Your Picture,
+Attendance,Jelenléti
+Attendance Date,Jelenléti dátum
+Attendance Details,Jelenléti részletek
+Attendance From Date,
+Attendance From Date and Attendance To Date is mandatory,
+Attendance To Date,
+Attendance can not be marked for future dates,
+Attendance for employee {0} is already marked,
+Attendance record.,
+Auditor,
+Authorization Control,
+Authorization Rule,Jóváhagyási szabály
+Auto Accounting For Stock Settings,
+Auto Material Request,Automata anyagrendelés
+Auto-raise Material Request if quantity goes below re-order level in a warehouse,
+Automatically compose message on submission of transactions.,
+Automatically updated via Stock Entry of type Manufacture/Repack,
+Automotive,
+Autoreply when a new mail is received,
+Available,Elérhető
+Available Qty at Warehouse,Elérhető mennyiség a raktárban
+Available Stock for Packing Items,Elérhető készlet a csomagoláshoz
+"Available in BOM, Delivery Note, Purchase Invoice, Production Order, Purchase Order, Purchase Receipt, Sales Invoice, Sales Order, Stock Entry, Timesheet",
+Average Age,
+Average Commission Rate,Átlagos jutalék mérték
+Average Discount,
+Avg Daily Outgoing,
+Avg. Buying Rate,
+Awesome Products,
+Awesome Services,
+BOM Detail No,
+BOM Explosion Item,
+BOM Item,BOM tétel
+BOM No,Anyagjegyzék száma
+BOM No. for a Finished Good Item,
+BOM Operation,
+BOM Operations,
+BOM Rate,
+BOM Replace Tool,Anyagjegyzék cserélő eszköz
+BOM number is required for manufactured Item {0} in row {1},
+BOM number not allowed for non-manufactured Item {0} in row {1},
+BOM recursion: {0} cannot be parent or child of {2},
+BOM replaced,Anyagjegyzék lecserélve
+BOM {0} for Item {1} in row {2} is inactive or not submitted,
+BOM {0} is not active or not submitted,
+BOM {0} is not submitted or inactive BOM for Item {1},
+Backup Manager,Mentés kezelő
+Backup Right Now,
+Backups will be uploaded to,
+Balance,
+Balance Qty,
+Balance Sheet,
+Balance Value,
+Balance for Account {0} must always be {1},
+Balance must be,
+"Balances of Accounts of type ""Bank"" or ""Cash""",
+Bank,
+Bank / Cash Account,
+Bank A/C No.,
+Bank Account,Bankszámla
+Bank Account No.,Bankszámla szám
+Bank Accounts,
+Bank Clearance Summary,
+Bank Draft,
+Bank Name,Bank neve
+Bank Overdraft Account,
+Bank Reconciliation,
+Bank Reconciliation Detail,
+Bank Reconciliation Statement,
+Bank Voucher,Banki bizonylat
+Bank/Cash Balance,
+Banking,
+Barcode,Vonalkód
+Barcode {0} already used in Item {1},
+Based On,
+Basic,
+Basic Info,Általános adatok
+Basic Information,Általános adatok
+Basic Rate,
+Basic Rate (Company Currency),
+Batch,Köteg
+Batch (lot) of an Item.,
+Batch Finished Date,Kötegelés vége
+Batch ID,Köteg ID
+Batch No,Köteg száma
+Batch Started Date,Kötegelés kezdő dátuma
+Batch Time Logs for Billing.,Időnaplók gyűjtése számlázáshoz.
+Batch Time Logs for billing.,Időnaplók gyűjtése számlázáshoz.
+Batch-Wise Balance History,
+Batched for Billing,
+Better Prospects,
+Bill Date,
+Bill No,
+Bill of Material,Anyagjegyzék
+Bill of Material to be considered for manufacturing,
+Bill of Materials (BOM),Anyagjegyzék (BOM)
+Billable,
+Billed,
+Billed Amount,
+Billed Amt,
+Billing,Számlázás
+Billing (Sales Invoice),Számlázás (Eladási számla)
+Billing Address,Számlázási cím
+Billing Address Name,Számlázási cím neve
+Billing Status,Számlázási állapot
+Bills raised by Suppliers.,
+Bills raised to Customers.,
+Bin,
+Bio,Életrajz
+Biotechnology,
+Birthday,Születésnap
+Block Date,
+Block Days,
+Block Holidays on important days.,
+Block leave applications by department.,
+Blog Post,Blog bejegyzés
+Blog Subscriber,
+Blood Group,Vércsoport
+Both Warehouse must belong to same Company,
+Box,
+Branch,Ágazat
+Brand,Márka
+Brand Name,Márkanév
+Brand master.,
+Brands,Márkák
+Breakdown,Üzemzavar
+Broadcasting,
+Brokerage,
+Budget,Költségkeret
+Budget Allocated,Lefoglalt költségkeret
+Budget Detail,Költségkeret adatai
+Budget Details,Költségkeret részletei
+Budget Distribution,Költségvetés megoszlása
+Budget Distribution Detail,Költségvetés megoszlásának adata
+Budget Distribution Details,Költségvetés megoszlásának adatai
+Budget Variance Report,
+Budget cannot be set for Group Cost Centers,
+Build Report,
+Bundle items at time of sale.,
+Business Development Manager,
+Buyer of Goods and Services.,
+Buying,Beszerzés
+Buying & Selling,
+Buying Amount,
+Buying Settings,Beszerzés beállításai
+"Buying must be checked, if Applicable For is selected as {0}",
+C-Form,
+C-Form Applicable,
+C-Form Invoice Detail,
+C-Form No,C-Form No
+C-Form records,
+CENVAT Capital Goods,
+CENVAT Edu Cess,
+CENVAT SHE Cess,
+CENVAT Service Tax,
+CENVAT Service Tax Cess 1,
+CENVAT Service Tax Cess 2,
+Calculate Based On,
+Calculate Total Score,
+Calendar Events,Események
+Call,Hívás
+Calls,
+Campaign,Kampány
+Campaign Name,
+Campaign Name is required,
+Campaign Naming By,
+Campaign-.####,
+Can be approved by {0},
+"Can not filter based on Account, if grouped by Account",
+"Can not filter based on Voucher No, if grouped by Voucher",
+Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',
+Cancel Material Visit {0} before cancelling this Customer Issue,
+Cancel Material Visits {0} before cancelling this Maintenance Visit,
+Cancelled,Törölve
+Cancelling this Stock Reconciliation will nullify its effect.,
+Cannot Cancel Opportunity as Quotation Exists,
+Cannot approve leave as you are not authorized to approve leaves on Block Dates,
+Cannot cancel because Employee {0} is already approved for {1},
+Cannot cancel because submitted Stock Entry {0} exists,
+Cannot carry forward {0},
+Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,
+"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.",
+Cannot convert Cost Center to ledger as it has child nodes,
+Cannot covert to Group because Master Type or Account Type is selected.,
+Cannot deactive or cancle BOM as it is linked with other BOMs,
+"Cannot declare as lost, because Quotation has been made.",
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',
+"Cannot delete Serial No {0} in stock. First remove from stock, then delete.",
+"Cannot directly set amount. For 'Actual' charge type, use the rate field",
+"Cannot overbill for Item {0} in row {0} more than {1}. To allow overbilling, please set in Stock Settings",
+Cannot produce more Item {0} than Sales Order quantity {1},
+Cannot refer row number greater than or equal to current row number for this Charge type,
+Cannot return more than {0} for Item {1},
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for valuation. You can select only 'Total' option for previous row amount or previous row total,
+Cannot set as Lost as Sales Order is made.,
+Cannot set authorization on basis of Discount for {0},
+Capacity,
+Capacity Units,
+Capital Account,
+Capital Equipments,
+Carry Forward,Átvihető a szabadság
+Carry Forwarded Leaves,Áthozott szabadnapok száma
+Case No(s) already in use. Try from Case No {0},
+Case No. cannot be 0,
+Cash,Készpénz
+Cash In Hand,
+Cash Voucher,Készpénzutalvány
+Cash or Bank Account is mandatory for making payment entry,
+Cash/Bank Account,
+Casual Leave,
+Cell Number,Mobilszám
+Change Abbreviation,
+Change UOM for an Item.,
+Change the starting / current sequence number of an existing series.,
+Channel Partner,Értékesítési partner
+Charge of type 'Actual' in row {0} cannot be included in Item Rate,
+Chargeable,
+Charges are updated in Purchase Receipt against each item,
+Charges will be distributed proportionately based on item amount,
+Charity and Donations,
+Chart Name,
+Chart of Accounts,Számlatükör
+Chart of Cost Centers,Költséghelyek listája
+Check how the newsletter looks in an email by sending it to your email.,
+"Check if recurring invoice, uncheck to stop recurring or put proper End Date",
+"Check if recurring order, uncheck to stop recurring or put proper End Date",
+"Check if you need automatic recurring invoices. After submitting any sales invoice, Recurring section will be visible.",
+Check if you want to send salary slip in mail to each employee while submitting salary slip,
+Check this if you want to force the user to select a series before saving. There will be no default if you check this.,
+Check this if you want to show in website,
+Check this to disallow fractions. (for Nos),
+Check this to pull emails from your mailbox,
+Check to activate,
+Check to make Shipping Address,
+Check to make primary address,
+Chemical,
+Cheque,
+Cheque Date,
+Cheque Number,
+Child account exists for this account. You can not delete this account.,
+City,Város
+City/Town,Város/település
+Claim Amount,Igényelt összeg
+Claims for company expense.,
+Class / Percentage,
+Classic,Klasszikus
+Classification of Customers by region,
+Clear Table,Tábla törlése
+Clearance Date,
+Clearance Date not mentioned,
+Clearance date cannot be before check date in row {0},
+Click on 'Make Sales Invoice' button to create a new Sales Invoice.,
+Click on a link to get options to expand get options ,
+Client,Ügyfél
+Close,Bezárás
+Close Balance Sheet and book Profit or Loss.,
+Closed,Lezárva
+Closing (Cr),
+Closing (Dr),
+Closing Account Head,
+Closing Account {0} must be of type 'Liability',
+Closing Date,
+Closing Fiscal Year,
+CoA Help,
+Code,
+Cold Calling,Hideg hívás (telemarketing)
+Color,Szín
+Column Break,
+Column Break 1,
+Comma separated list of email addresses,Emailcímek vesszővel elválasztva
+Comment,Megjegyzés
+Comments,Megjegyzések
+Commercial,
+Commission,
+Commission Rate,Jutalék mértéke
+Commission Rate (%),
+Commission on Sales,
+Commission rate cannot be greater than 100,A jutalék mértéke nem lehet több mint 100
+Communication,Kommunikáció
+Communication HTML,HTML Kommunikáció
+Communication History,Kommunikációs történet
+Communication log.,
+Communications,
+Company,Cég
+Company (not Customer or Supplier) master.,
+Company Abbreviation,
+Company Details,Cég adatai
+Company Email,
+"Company Email ID not found, hence mail not sent",
+Company Info,Cég infó
+Company Name,Cég neve
+Company Settings,Cég beállítások
+Company is missing in warehouses {0},
+Company is required,
+Company registration numbers for your reference. Example: VAT Registration Numbers etc.,"""A cég regisztrált adatai. Pl.: Cégbejegyzési szám; adószám; stb."""
+Company registration numbers for your reference. Tax numbers etc.,"""A cég regisztrált adatai. Pl.: adószám; stb."""
+"Company, Month and Fiscal Year is mandatory",
+Compensatory Off,
+Complete,Kész
+Complete Setup,
+Completed,Befejezve
+Completed Production Orders,Befejezett gyártási rendelések
+Completed Qty,
+Completion Date,Befejezés dátuma
+Completion Status,Művelet állapota
+Computer,
+Computers,
+Confirmation Date,
+Confirmed orders from Customers.,
+Consider Tax or Charge for,
+Considered as Opening Balance,
+Considered as an Opening Balance,
+Consultant,
+Consulting,
+Consumable,
+Consumable Cost,
+Consumable cost per hour,
+Consumed,
+Consumed Amount,
+Consumed Qty,
+Consumer Products,
+Contact,Kapcsolat
+Contact Desc,Kapcsolattartó leírása
+Contact Details,Kapcsolattartó részletei
+Contact Email,Kapcsolattartó e-mailcíme
+Contact HTML,
+Contact Info,Kapcsolattartó infó
+Contact Mobile No,Kapcsolattartó mobilszáma
+Contact Name,Kapcsolattartó neve
+Contact No.,Kapcsolattartó száma
+Contact Person,Kapcsolattartó személy
+Contact Type,Kapcsolattartó típusa
+Contact master.,
+Contacts,
+Content,Tartalom
+Content Type,Tartalom típusa
+Contra Voucher,Ellen bizonylat
+Contract,
+Contract End Date,
+Contract End Date must be greater than Date of Joining,
+Contribution %,
+Contribution (%),
+Contribution Amount,
+Contribution to Net Total,
+Conversion Factor,
+Conversion Factor is required,
+Conversion factor cannot be in fractions,
+Conversion factor for default Unit of Measure must be 1 in row {0},
+Conversion rate cannot be 0 or 1,
+Convert to Group,
+Convert to Ledger,
+Converted,
+Copy From Item Group,
+Cosmetics,
+Cost Center,Költségközpont
+Cost Center Details,Költségközpont adatai
+Cost Center For Item with Item Code ',
+Cost Center Name,Költségközpont neve
+Cost Center is required for 'Profit and Loss' account {0},
+Cost Center is required in row {0} in Taxes table for type {1},
+Cost Center with existing transactions can not be converted to group,
+Cost Center with existing transactions can not be converted to ledger,
+Cost Center {0} does not belong to Company {1},
+Cost of Delivered Items,
+Cost of Goods Sold,
+Cost of Issued Items,
+Cost of Purchased Items,
+Costing,Költség
+Country,Ország
+Country Name,Ország neve
+Country wise default Address Templates,Országonként eltérő címlista sablonok
+"Country, Timezone and Currency",
+Cr,
+Create Bank Voucher for the total salary paid for the above selected criteria,
+Create Customer,
+Create Material Requests,Anyagigénylés létrehozása
+Create New,
+Create Opportunity,
+Create Payment Entries against Orders or Invoices.,
+Create Production Orders,Gyártásrendelés létrehozása
+Create Quotation,
+Create Receiver List,Címzettlista létrehozása
+Create Salary Slip,Bérlap létrehozása
+Create Stock Ledger Entries when you submit a Sales Invoice,
+Create and Send Newsletters,
+"Create and manage daily, weekly and monthly email digests.",
+Create rules to restrict transactions based on values.,
+Created By,Létrehozta
+Creates salary slip for above mentioned criteria.,Bérlap létrehozása a fenti kritériumok alapján.
+Creation Date,
+Creation Document No,
+Creation Document Type,
+Creation Time,
+Credentials,
+Credit,Követelés
+Credit Amt,
+Credit Card,
+Credit Card Voucher,Hitelkártya bizonylat
+Credit Controller,
+Credit Days,
+Credit Limit,
+Credit Note,Jóváírási értesítő
+Credit To,
+Cross Listing of Item in multiple groups,
+Currency,Pénznem
+Currency Exchange,Valuta árfolyam
+Currency Name,Pénznem neve
+Currency Settings,Pénznem beállítások
+Currency and Price List,Pénznem és árlista
+Currency exchange rate master.,
+Current Address,Jelenlegi cím
+Current Address Is,
+Current Assets,
+Current BOM,Aktuális anyagjegyzék (mit)
+Current BOM and New BOM can not be same,
+Current Fiscal Year,Jelenlegi pénzügyi év
+Current Liabilities,
+Current Stock,
+Current Stock UOM,
+Current Value,Jelenlegi érték
+Custom,Egyedi
+Custom Autoreply Message,
+Custom Message,Egyedi üzenet
+Customer,Vevő
+Customer (Receivable) Account,
+Customer / Item Name,Vevő / cikknév
+Customer / Lead Address,Vevő / Célpont címe
+Customer / Lead Name,Vevő / Célpont neve
+Customer > Customer Group > Territory,
+Customer Account,
+Customer Account Head,Customer Account Head
+Customer Acquisition and Loyalty,
+Customer Address,Vevő címe
+Customer Addresses And Contacts,Vevő címek és kapcsolatok
+Customer Addresses and Contacts,Vevő címek és kapcsolatok
+Customer Code,Vevő kódja
+Customer Codes,Vevő kódok
+Customer Details,Vevő részletek
+Customer Feedback,Vevői visszajelzés
+Customer Group,Vevő csoport
+Customer Group / Customer,
+Customer Group Name,Vevő csoport neve
+Customer Id,
+Customer Issue,Vevői probléma
+Customer Issue against Serial No.,Sorozatszámozott vevői probléma
+Customer Name,Vevő neve
+Customer Naming By,
+Customer Service,
+Customer database.,Vevői adatbázis.
+Customer is required,
+Customer master.,
+Customer required for 'Customerwise Discount',
+Customer {0} does not belong to project {1},
+Customer {0} does not exist,
+Customer's Item Code,Vevő cikkszáma
+Customer's Purchase Order Date,A Vevő rendelésének dátuma
+Customer's Purchase Order No,A Vevő rendelésének száma
+Customer's Purchase Order Number,
+Customer's Vendor,A Vevő szállítója
+Customers Not Buying Since Long Time,
+Customers Not Buying Since Long Time ,
+Customerwise Discount,
+Customize,Testreszabás
+Customize the Notification,
+Customize the introductory text that goes as a part of that email. Each transaction has a separate introductory text.,
+DN Detail,
+Daily,Napi
+Daily Time Log Summary,Napi időnapló összesítő
+Database Folder ID,
+Database of potential customers.,
+Date,Dátum
+Date Format,Dátum formátum
+Date Of Retirement,
+Date Of Retirement must be greater than Date of Joining,
+Date is repeated,
+Date of Birth,Születési dátum
+Date of Issue,Probléma dátuma
+Date of Joining,Belépés dátuma
+Date of Joining must be greater than Date of Birth,
+Date on which lorry started from supplier warehouse,
+Date on which lorry started from your warehouse,
+Dates,Dátumok
+Days Since Last Order,
+Days for which Holidays are blocked for this department.,
+Dealer,Terjesztő
+Debit,Tartozás
+Debit Amt,
+Debit Note,Terhelési értesítő
+Debit To,
+Debit and Credit not equal for this voucher. Difference is {0}.,
+Deduct,
+Deduction,
+Deduction Type,Levonások típusa
+Deduction1,Levonás
+Deductions,Levonások
+Default,Alapértelmezett
+Default Account,Alapértelmezett számla
+Default Address Template cannot be deleted,
+Default Amount,
+Default BOM,Alapértelmezett BOM
+Default Bank / Cash account will be automatically updated in POS Invoice when this mode is selected.,
+Default Bank Account,Alapértelmezett bankszámla
+Default Buying Cost Center,
+Default Buying Price List,
+Default Cash Account,
+Default Company,Alapértelmezett cég
+Default Cost Center,Alapértelmezett költségközpont
+Default Currency,Alapértelmezett pénznem
+Default Customer Group,
+Default Expense Account,
+Default Income Account,Alapértelmezett bejövő számla
+Default Item Group,Alapértelmezett árucsoport
+Default Price List,Alapértelmezett árlista
+Default Purchase Account in which cost of the item will be debited.,
+Default Selling Cost Center,
+Default Settings,Alapértelmezett beállítások
+Default Source Warehouse,Alapértelmezett raktár
+Default Stock UOM,Alapértelmezett mértékegység
+Default Supplier,Alapértelmezett beszállító
+Default Supplier Type,Alapértelmezett beszállító típus
+Default Target Warehouse,Alapértelmezett cél raktár
+Default Territory,Alapértelmezett terület
+Default Unit of Measure,Alapértelmezett mértékegység
+"Default Unit of Measure can not be changed directly because you have already made some transaction(s) with another UOM. To change default UOM, use 'UOM Replace Utility' tool under Stock module.",
+Default Valuation Method,Alapértelmezett készletérték számítási mód
+Default Warehouse,Alapértelmezett raktár
+Default Warehouse is mandatory for stock Item.,
+Default settings for accounting transactions.,
+Default settings for buying transactions.,
+Default settings for selling transactions.,
+Default settings for stock transactions.,
+Defense,
+"Define Budget for this Cost Center. To set budget action, see <a href=""#!List/Company"">Company Master</a>",
+Del,
+Delete,Törlés
+Delivered,Kiszállítva
+Delivered Amount,
+Delivered Items To Be Billed,Kiszállított anyag számlázásra
+Delivered Qty,Kiszállított mennyiség
+Delivered Serial No {0} cannot be deleted,
+Delivery Date,Szállítási dátum
+Delivery Details,Szállítási adatok
+Delivery Document No,
+Delivery Document Type,
+Delivery Note,Szállítólevél
+Delivery Note Item,Szállítólevél tétel
+Delivery Note Items,Szállítólevél tételek
+Delivery Note Message,Szállítólevél szövege
+Delivery Note No,Szállítólevél száma
+Delivery Note Required,Szállítólevél szükséges
+Delivery Note Trends,
+Delivery Note {0} is not submitted,
+Delivery Note {0} must not be submitted,
+Delivery Note/Sales Invoice,
+Delivery Notes {0} must be cancelled before cancelling this Sales Order,
+Delivery Status,Szállítás állapota
+Delivery Time,Szállítási idő
+Delivery To,
+Department,Részleg
+Department Stores,
+Depends on LWP,
+Depreciation,
+Description,Leírás
+Description HTML,HTML leírás
+Description of a Job Opening,
+Designation,Titulus
+Designer,
+Detailed Breakup of the totals,
+Details,Részletek
+Difference (Dr - Cr),
+Difference Account,
+"Difference Account must be a 'Liability' type account, since this Stock Reconciliation is an Opening Entry",
+Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM.,
+Direct Expenses,
+Direct Income,
+Disable,Tiltva
+Disable Rounded Total,Kerekített összesen elrejtése
+Disabled,Tiltva
+Discount,
+Discount  %,%  kedvezmény
+Discount %,% kedvezmény
+Discount (%),% kedvezmény
+Discount Amount,Kedvezmény összege
+"Discount Fields will be available in Purchase Order, Purchase Receipt, Purchase Invoice",
+Discount Percentage,Engedmény százaléka
+Discount Percentage can be applied either against a Price List or for all Price List.,
+Discount must be less than 100,
+Discount(%),
+Dispatch,
+Display all the individual items delivered with the main items,
+Distinct unit of an Item,
+Distribution,Nagykereskedelem
+Distribution Id,
+Distribution Name,
+Distributor,Nagykereskedő
+Divorced,Elvált
+Do Not Contact,
+Do not show any symbol like $ etc next to currencies.,
+Do really want to unstop production order: ,
+Do you really want to STOP ,
+Do you really want to STOP this Material Request?,
+Do you really want to Submit all Salary Slip for month {0} and year {1},
+Do you really want to UNSTOP ,
+Do you really want to UNSTOP this Material Request?,
+Do you really want to stop production order: ,
+Doc Name,
+Doc Type,
+Document Description,Dokumentum leírása
+Document Type,Dokumentum típusa
+Documents,Dokumentumok
+Domain,Terület
+Don't send Employee Birthday Reminders,
+Download Materials Required,Anyagszükséglet letöltése
+Download Reconcilation Data,
+Download Template,Sablon letöltése
+Download a report containing all raw materials with their latest inventory status,
+"Download the Template, fill appropriate data and attach the modified file.",
+"Download the Template, fill appropriate data and attach the modified file.
+All dates and employee combination in the selected period will come in the template, with existing attendance records",
+Dr,
+Draft,Vázlat
+Dropbox,
+Dropbox Access Allowed,
+Dropbox Access Key,
+Dropbox Access Secret,
+Due Date,Határidő
+Due Date cannot be after {0},A határidő nem lehet {0} utáni
+Due Date cannot be before Posting Date,A határidő nem lehet a rögzítés dátuma előtti
+Duplicate Entry. Please check Authorization Rule {0},
+Duplicate Serial No entered for Item {0},
+Duplicate entry,
+Duplicate row {0} with same {1},
+Duties and Taxes,
+ERPNext Setup,
+Earliest,
+Earnest Money,
+Earning,Kereset
+Earning & Deduction,Kereset és levonás
+Earning Type,Kereset típusa
+Earning1,Kereset
+Edit,Szerkesztés
+Edu. Cess on Excise,
+Edu. Cess on Service Tax,
+Edu. Cess on TDS,
+Education,
+Educational Qualification,Iskolai végzettségek
+Educational Qualification Details,Iskolai végzettségek adatai
+Eg. smsgateway.com/api/send_sms.cgi,
+Either debit or credit amount is required for {0},
+Either target qty or target amount is mandatory,
+Either target qty or target amount is mandatory.,
+Electrical,
+Electricity Cost,
+Electricity cost per hour,
+Electronics,
+Email,
+Email Digest,Összefoglaló email
+Email Digest Settings,Email összefoglaló beállításai
+Email Digest: ,
+Email Id,Email cím
+"Email Id where a job applicant will email e.g. ""jobs@example.com""",
+Email Notifications,Email értesítések
+Email Sent?,Email elküldve
+Email Settings for Outgoing and Incoming Emails.,
+"Email id must be unique, already exists for {0}",
+Email ids separated by commas.,
+"Email settings for jobs email id ""jobs@example.com""",
+"Email settings to extract Leads from sales email id e.g. ""sales@example.com""",
+Emergency Contact,
+Emergency Contact Details,
+Emergency Phone,
+Employee,Dolgozó
+Employee Birthday,Dolgozó születésnapja
+Employee Details,Dolgozó részletei
+Employee Education,Dolgozói képzés
+Employee External Work History,A Dolgozó korábbi munkahelyei
+Employee Information,Dolgozói információk
+Employee Internal Work History,A Dolgozó cégen belüli mozgása
+Employee Internal Work Historys,
+Employee Leave Approver,
+Employee Leave Balance,
+Employee Name,Dolgozó neve
+Employee Number,Dolgozó száma
+Employee Records to be created by,
+Employee Settings,
+Employee Type,Munkaviszony típusa
+Employee can not be changed,
+"Employee designation (e.g. CEO, Director etc.).",
+Employee master.,
+Employee record is created using selected field. ,
+Employee records.,
+Employee relieved on {0} must be set as 'Left',
+Employee {0} has already applied for {1} between {2} and {3},
+Employee {0} is not active or does not exist,
+Employee {0} was on leave on {1}. Cannot mark attendance.,
+Employees Email Id,Dolgozó emailcíme
+Employment Details,Dolgozói részletek
+Employment Type,Dolgozó típusa
+Enable / disable currencies.,
+Enabled,Engedélyezve
+Encashment Date,
+End Date,Határidő
+End Date can not be less than Start Date,
+End date of current invoice's period,
+End date of current order's period,
+End of Life,Felhasználhatósági idő
+Energy,
+Engineer,
+Enter Verification Code,
+Enter campaign name if the source of lead is campaign.,
+Enter department to which this Contact belongs,
+Enter designation of this Contact,
+"Enter email id separated by commas, invoice will be mailed automatically on particular date","Vesszővel elválasztva kell felsorolni az emailcímeket, ahova a számla automatikusan elküldésre kerül az adott időpontban"
+"Enter email id separated by commas, order will be mailed automatically on particular date",
+Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,
+Enter name of campaign if source of enquiry is campaign,
+"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)",
+Enter the company name under which Account Head will be created for this Supplier,
+Enter url parameter for message,
+Enter url parameter for receiver nos,
+Entertainment & Leisure,
+Entertainment Expenses,
+Entries,
+Entries against ,
+Entries are not allowed against this Fiscal Year if the year is closed.,
+Equity,
+Error: {0} > {1},
+Estimated Material Cost,Becsült anyagköltség
+"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:",
+Everyone can read,Akárki elolvashatja
+"Example: ABCD.#####
+If series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.",
+Exchange Rate,Átváltási arány
+Excise Duty 10,
+Excise Duty 14,
+Excise Duty 4,
+Excise Duty 8,
+Excise Duty @ 10,
+Excise Duty @ 14,
+Excise Duty @ 4,
+Excise Duty @ 8,
+Excise Duty Edu Cess 2,
+Excise Duty SHE Cess 1,
+Excise Page Number,
+Excise Voucher,Jövedéki bizonylat
+Execution,
+Executive Search,
+Exhibition,Kiállítás
+Existing Customer,Meglévő vevő
+Exit,Kilépés
+Exit Interview Details,
+Expected,
+Expected Completion Date can not be less than Project Start Date,
+Expected Date cannot be before Material Request Date,
+Expected Delivery Date,Várható szállítás dátuma
+Expected Delivery Date cannot be before Purchase Order Date,
+Expected Delivery Date cannot be before Sales Order Date,
+Expected End Date,Várható befejezés dátuma
+Expected Start Date,Várható indulás dátuma
+Expected balance as per bank,
+Expense,
+Expense / Difference account ({0}) must be a 'Profit or Loss' account,
+Expense Account,
+Expense Account is mandatory,
+Expense Approver,
+Expense Claim,Béremelési igény
+Expense Claim Approved,Béremelési igény jóváhagyva
+Expense Claim Approved Message,Jóváhagyott igény indoklása
+Expense Claim Detail,Béremelés részlete
+Expense Claim Details,Béremelés részletei
+Expense Claim Rejected,Béremelési igény elutasítva
+Expense Claim Rejected Message,Elutasított igény indoklása
+Expense Claim Type,Béremelési igény típusa
+Expense Claim has been approved.,
+Expense Claim has been rejected.,
+Expense Claim is pending approval. Only the Expense Approver can update status.,
+Expense Date,Igénylés dátuma
+Expense Details,Igénylés részletei
+Expense Head,
+Expense account is mandatory for item {0},
+Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,
+Expenses,
+Expenses Booked,
+Expenses Included In Valuation,
+Expenses booked for the digest period,
+Expired,
+Expiry,
+Expiry Date,
+Exports,
+External,Külső
+Extract Emails,
+FCFS Rate,
+Failed: ,
+Family Background,Családi háttér
+Fax,
+Features Setup,Funkciók beállítása
+Feed,
+Feed Type,
+Feedback,
+Feladatok,
+Feladatok listája,
+Female,Nő
+Fetch exploded BOM (including sub-assemblies),
+"Field available in Delivery Note, Quotation, Sales Invoice, Sales Order",
+Files Folder ID,
+Fill the form and save it,
+Filter based on customer,
+Filter based on item,
+Financial / accounting year.,
+Financial Analytics,Pénzügyi analítika
+Financial Chart of Accounts. Imported from file.,
+Financial Services,
+Financial Year End Date,
+Financial Year Start Date,
+Finished Goods,
+First Name,Vezetéknév
+First Responded On,Első válasz időpontja
+Fiscal Year,Pénzügyi év
+Fiscal Year Start Date and Fiscal Year End Date are already set in Fiscal Year {0},
+Fiscal Year Start Date and Fiscal Year End Date cannot be more than a year apart.,
+Fiscal Year Start Date should not be greater than Fiscal Year End Date,
+Fiscal Year {0} not found.,
+Fixed Asset,
+Fixed Assets,
+Fixed Cycle Cost,
+Fold,
+Follow via Email,
+"Following table will show values if items are sub - contracted. These values will be fetched from the master of ""Bill of Materials"" of sub - contracted items.",
+Food,
+"Food, Beverage & Tobacco",
+"For 'Sales BOM' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Sales BOM' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.",
+For Company,Cégnek
+For Employee,Dolgozónak
+For Employee Name,
+For Price List,Ezen árlistán
+For Production,
+For Reference Only.,
+For Sales Invoice,
+For Server Side Print Formats,
+For Supplier,
+For Warehouse,Ebbe a raktárba
+For Warehouse is required before Submit,
+"For e.g. 2012, 2012-13",
+For reference,
+For reference only.,
+"For the convenience of customers, these codes can be used in print formats like Invoices and Delivery Notes",
+"For {0}, only credit entries can be linked against another debit entry",
+"For {0}, only debit entries can be linked against another credit entry",
+Fraction,
+Fraction Units,
+Freeze Stock Entries,Készlet zárolás
+Freeze Stocks Older Than [Days],
+Freight and Forwarding Charges,
+Friday,Péntek
+From,Ettől
+From Bill of Materials,Anyagjegyzékből
+From Company,Cégtől
+From Currency,
+From Currency and To Currency cannot be same,
+From Customer,
+From Customer Issue,
+From Date,Dátumtól
+From Date cannot be greater than To Date,
+From Date must be before To Date,
+From Date should be within the Fiscal Year. Assuming From Date = {0},
+From Datetime,
+From Delivery Note,Áthozás fuvarlevélből
+From Employee,Dolgozótól
+From Lead,Célponttól
+From Maintenance Schedule,
+From Material Request,
+From Opportunity,
+From Package No.,
+From Purchase Order,
+From Purchase Receipt,
+From Quotation,
+From Sales Order,Áthozás értékesítési megrendelésből
+From Supplier Quotation,
+From Time,Időtől
+From Value,Értéktől
+From and To dates required,
+From value must be less than to value in row {0},
+Frozen,Zárolt
+Frozen Accounts Modifier,
+Fulfilled,
+Full Name,Teljes név
+Full-time,
+Fully Billed,
+Fully Completed,Teljesen kész
+Fully Delivered,
+Furniture and Fixture,
+Further accounts can be made under Groups but entries can be made against Ledger,
+"Further accounts can be made under Groups, but entries can be made against Ledger",
+Further nodes can be only created under 'Group' type nodes,
+GL Entry,
+Gantt Chart,Gantt diagram
+Gantt chart of all tasks.,Minden feladat egy Gantt diagrammon.
+Gender,Neme
+General,Általános
+General Ledger,Főkönyvi számla
+General Settings,Általános beállítások
+Generate Description HTML,HTML leírás generálása
+Generate Material Requests (MRP) and Production Orders.,
+Generate Salary Slips,Bérlap generálása
+Generate Schedule,Ütemezés generálása
+"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.",
+Generates HTML to include selected image in the description,
+Get Advances Paid,Kifizetett előlegek átmásolása
+Get Advances Received,Befogadott előlegek átmásolása
+Get Current Stock,
+Get Items,Tételek áthozása
+Get Items From Purchase Receipts,
+Get Items From Sales Orders,
+Get Items from BOM,
+Get Last Purchase Rate,
+Get Outstanding Invoices,
+Get Outstanding Vouchers,
+Get Relevant Entries,
+Get Sales Orders,
+Get Specification Details,
+Get Stock and Rate,
+Get Template,
+Get Terms and Conditions,
+Get Unreconciled Entries,
+Get Weekly Off Dates,
+"Get valuation rate and available stock at source/target warehouse on mentioned posting date-time. If serialized item, please press this button after entering serial nos.",
+Global Defaults,Általános beállítások
+Global POS Setting {0} already created for company {1},
+Global Settings,Globális beállítások
+"Go to the appropriate group (usually Application of Funds > Current Assets > Bank Accounts and create a new Account Ledger (by clicking on Add Child) of type ""Bank""",
+"Go to the appropriate group (usually Source of Funds > Current Liabilities > Taxes and Duties and create a new Account Ledger (by clicking on Add Child) of type ""Tax"" and do mention the Tax rate.",
+Goal,Cél
+Goals,Célok
+Goods received from Suppliers.,
+Google Drive,
+Google Drive Access Allowed,
+Government,
+Graduate,Diplomás
+Grand Total,Nagy összesen
+Grand Total (Company Currency),
+"Grid """,
+Grocery,
+Gross Margin %,Bruttó haszon %
+Gross Margin Value,Bruttó haszon érték
+Gross Pay,Bruttó fizetés
+Gross Pay + Arrear Amount +Encashment Amount - Total Deduction,
+Gross Profit,Bruttó haszon
+Gross Profit %,
+Gross Profit (%),
+Gross Weight,Bruttó súly
+Gross Weight UOM,
+Group,Csoport
+Group Node,
+Group by Account,
+Group by Voucher,
+Group or Ledger,Csoport vagy főkönyv
+Groups,Csoportok
+Guest,
+HR Manager,
+HR Settings,Munkaügyi beállítások
+HR User,
+HTML / Banner that will show on the top of product list.,
+Half Day,Félnap
+Half Yearly,Félévente
+Half-yearly,Félévente
+Happy Birthday!,Boldog születésnapot!
+Hardware,
+Has Batch No,Lesz kötegszáma?
+Has Child Node,
+Has Serial No,Lesz sorozatszáma?
+Head of Marketing and Sales,
+Heads (or groups) against which Accounting Entries are made and balances are maintained.,
+Health Care,
+Health Concerns,
+Health Details,Egészségügyi adatok
+Held On,
+Help HTML,HTML Súgó
+"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")",
+"Here you can maintain family details like name and occupation of parent, spouse and children",
+"Here you can maintain height, weight, allergies, medical concerns etc",
+Hide Currency Symbol,Pénznem szimbólumának elrejtése
+High,Magas
+History In Company,Előzmények a cégnél
+Hold,Felfüggesztve
+Holiday,Szabadnap
+Holiday List,Szabadnapok listája
+Holiday List Name,
+Holiday master.,
+Holidays,Szabadnapok
+Home,Kezdő oldal
+Host,
+"Host, Email and Password required if emails are to be pulled",
+Hour,óra
+Hour Rate,
+Hour Rate Labour,
+Hours,
+How Pricing Rule is applied?,
+How frequently?,
+"How should this currency be formatted? If not set, will use system defaults",
+Human Resources,Emberi erőforrások
+"Ide írd be a fájl vagy fájlok elérési útvonalát. Enterrel elválasztva egymás alá több útvonalat is beírhatsz. (Pl.:
+p:\Fejlesztési adatbázis\K+F\Projekt 01 (ZENIT sugarzok hatásfok növelés)\)",
+Identification of the package for the delivery (for print),
+If Income or Expense,
+If Monthly Budget Exceeded,
+"If Supplier Part Number exists for given Item, it gets stored here",
+If Yearly Budget Exceeded,
+"If checked, BOM for sub-assembly items will be considered for getting raw materials. Otherwise, all sub-assembly items will be treated as a raw material.",
+"If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day",
+"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount",
+If different than customer address,
+"If disable, 'Rounded Total' field will not be visible in any transaction","Ha kikapcsolod, a 'Kerekített összesen' mező nem fog látszódni sehol sem"
+"If enabled, the system will post accounting entries for inventory automatically.",
+If more than one package of the same type (for print),
+"If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.",
+"If no change in either Quantity or Valuation Rate, leave the cell blank.",
+"If not checked, the list will have to be added to each Department where it has to be applied.",
+"If selected Pricing Rule is made for 'Price', it will overwrite Price List. Pricing Rule price is the final price, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",
+"If specified, send the newsletter using this email address",
+"If the account is frozen, entries are allowed to restricted users.",
+"If this Account represents a Customer, Supplier or Employee, set it here.",
+"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.",
+If you follow Quality Inspection. Enables Item QA Required and QA No in Purchase Receipt,
+If you have Sales Team and Sale Partners (Channel Partners)  they can be tagged and maintain their contribution in the sales activity,
+"If you have created a standard template in Purchase Taxes and Charges Master, select one and click on the button below.",
+"If you have created a standard template in Sales Taxes and Charges Master, select one and click on the button below.",
+"If you have long print formats, this feature can be used to split the page to be printed on multiple pages with all headers and footers on each page",
+If you involve in manufacturing activity. Enables Item 'Is Manufactured',
+Ignore,Mellőz
+Ignore Pricing Rule,
+Ignored: ,
+Image,Kép
+Image View,Kép nézet
+Implementation Partner,Kivitelező partner
+Import Attendance,
+Import Failed!,
+Import Log,Importálás naplója
+Import Successful!,
+Imports,Importálás
+In Hours,Órákban
+In Process,
+In Qty,
+In Stock,
+In Words,Szavakkal
+In Words (Company Currency),
+In Words (Export) will be visible once you save the Delivery Note.,
+In Words will be visible once you save the Delivery Note.,
+In Words will be visible once you save the Purchase Invoice.,
+In Words will be visible once you save the Purchase Order.,
+In Words will be visible once you save the Purchase Receipt.,
+In Words will be visible once you save the Quotation.,
+In Words will be visible once you save the Sales Invoice.,
+In Words will be visible once you save the Sales Order.,
+Incentives,
+Include Reconciled Entries,
+Include holidays in Total no. of Working Days,
+Income,
+Income / Expense,
+Income Account,
+Income Booked,
+Income Tax,
+Income Year to Date,
+Income booked for the digest period,
+Incoming,Bejövő
+Incoming Rate,
+Incoming quality inspection.,
+Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,
+Incorrect or Inactive BOM {0} for Item {1} at row {2},
+Indicates that the package is a part of this delivery (Only Draft),
+Indirect Expenses,
+Indirect Income,
+Individual,Magánszemély
+Industry,Ipar
+Industry Type,Iparág
+Inspected By,Megvizsgálta
+Inspection Criteria,Vizsgálati kritériumok
+Inspection Required,Minőség-ellenőrzés szükséges
+Inspection Type,Vizsgálat típusa
+Installation Date,Telepítés dátuma
+Installation Note,Telepítési feljegyzés
+Installation Note Item,Telepítési feljegyzés elemei
+Installation Note {0} has already been submitted,
+Installation Status,Telepítési állapot
+Installation Time,Telepítés időpontja
+Installation date cannot be before delivery date for Item {0},
+Installation record for a Serial No.,
+Installed Qty,Telepített mennyiség
+Instructions,Utasítások
+Interested,
+Intern,
+Internal,Belső
+Internet Publishing,
+Introduction,
+Invalid Barcode,
+Invalid Barcode or Serial No,
+Invalid Mail Server. Please rectify and try again.,
+Invalid Master Name,
+Invalid User Name or Support Password. Please rectify and try again.,
+Invalid quantity specified for item {0}. Quantity should be greater than 0.,
+Inventory,Raktározás
+Inventory & Support,
+Investment Banking,
+Investments,
+Invoice,
+Invoice Date,
+Invoice Details,
+Invoice No,
+Invoice Number,
+Invoice Type,
+Invoice/Journal Voucher Details,
+Invoiced Amount,
+Invoiced Amount (Exculsive Tax),
+Is Active,Aktív?
+Is Advance,Ez előleg?
+Is Cancelled,ez törölve
+Is Carry Forward,
+Is Default,
+Is Encash,
+Is Fixed Asset Item,
+Is LWP,
+Is Opening,Ez nyitó tétel?
+Is Opening Entry,Ez nyitó tétel?
+Is POS,
+Is Primary Contact,
+Is Purchase Item,Beszerzendő tétel?
+Is Recurring,
+Is Sales Item,Eladható tétel?
+Is Service Item,
+Is Stock Item,Raktározandó anyag?
+Is Sub Contracted Item,Alvállalkozó által feldolgozandó?
+Is Subcontracted,
+Is this Tax included in Basic Rate?,
+Issue,Probléma
+Issue Date,Probléma dátuma
+Issue Details,Probléma részletei
+Issued Items Against Production Order,Gyártás rendelést akadályozó problémák
+It can also be used to create opening stock entries and to fix stock value.,
+Item,Tétel
+Item #{0}: Ordered qty can not less than item's minimum order qty (defined in item master).,
+Item Advanced,
+Item Barcode,Anyag vonalkódja
+Item Batch Nos,Anyag kötegszáma
+Item Classification,
+Item Code,Anyag kódja
+Item Code > Item Group > Brand,
+Item Code and Warehouse should already exist.,
+Item Code cannot be changed for Serial No.,
+Item Code is mandatory because Item is not automatically numbered,
+Item Code required at Row No {0},
+Item Customer Detail,A cikk vevőjének részletei
+Item Description,Az anyag leírása
+Item Desription,Az anyag leírása
+Item Details,Az anyag részletei
+Item Group,Anyag csoport
+Item Group Name,Anyagcsoport neve
+Item Group Tree,Tétel csoportfa
+Item Group not mentioned in item master for item {0},
+Item Groups in Details,Az anyagcsoport részletei
+Item Image (if not slideshow),
+Item Name,Az anyag neve
+Item Naming By,Anyag elnevezés típusa
+Item Price,Az anyag ára
+Item Prices,Anyagárak
+Item Quality Inspection Parameter,Anyag minőségi vizsgálatának részletei
+Item Reorder,Anyag újrarendelés
+Item Row {0}: Purchase Receipt {1} does not exist in above 'Purchase Receipts' table,
+Item Serial No,Anyag-sorozatszám
+Item Serial Nos,Anyag-sorozatszámok
+Item Shortage Report,
+Item Supplier,Anyagbeszállító
+Item Supplier Details,Anyagbeszállító adatai
+Item Tax,Az anyag adójának típusa
+Item Tax Amount,Az anyag adójának értéke
+Item Tax Rate,Az anyag adójának mértéke
+Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable,
+Item Tax1,
+Item To Manufacture,Anyag gyártáshoz
+Item UOM,Az anyag mennyiségi egysége
+Item Website Specification,Az anyag weboldala
+Item Website Specifications,Az anyag weboldalai
+Item Wise Tax Detail,
+Item Wise Tax Detail ,
+Item is required,
+Item is updated,
+Item master.,
+"Item must be a purchase item, as it is present in one or many Active BOMs",
+Item must be added using 'Get Items from Purchase Receipts' button,
+Item or Warehouse for row {0} does not match Material Request,
+Item table can not be blank,Az Anyagok rész nem lehet üres
+Item to be manufactured or repacked,
+Item valuation rate is recalculated considering landed cost voucher amount,
+Item valuation updated,
+Item will be saved by this name in the data base.,
+Item {0} appears multiple times in Price List {1},
+Item {0} does not exist,
+Item {0} does not exist in the system or has expired,
+Item {0} does not exist in {1} {2},
+Item {0} has already been returned,
+Item {0} has been entered multiple times against same operation,
+Item {0} has been entered multiple times with same description or date,
+Item {0} has been entered multiple times with same description or date or warehouse,
+Item {0} has been entered twice,
+Item {0} has reached its end of life on {1},
+Item {0} ignored since it is not a stock item,
+Item {0} is cancelled,{0} elem törölve
+Item {0} is not Purchase Item,
+Item {0} is not a serialized Item,
+Item {0} is not a stock Item,
+Item {0} is not active or end of life has been reached,
+Item {0} is not setup for Serial Nos. Check Item master,
+Item {0} is not setup for Serial Nos. Column must be blank,
+Item {0} must be Sales Item,
+Item {0} must be Sales or Service Item in {1},
+Item {0} must be Service Item,
+Item {0} must be a Purchase Item,
+Item {0} must be a Sales Item,
+Item {0} must be a Service Item.,
+Item {0} must be a Sub-contracted Item,
+Item {0} must be a stock Item,
+Item {0} must be manufactured or sub-contracted,
+Item {0} not found,
+Item {0} with Serial No {1} is already installed,
+Item {0} with same description entered twice,
+"Item, Warranty, AMC (Annual Maintenance Contract) details will be automatically fetched when Serial Number is selected.",
+Item-wise Price List Rate,
+Item-wise Purchase History,
+Item-wise Purchase Register,
+Item-wise Sales History,
+Item-wise Sales Register,
+"Item: {0} managed batch-wise, can not be reconciled using \
+					Stock Reconciliation, instead use Stock Entry",
+Item: {0} not found in the system,
+Items,Anyagok
+Items To Be Requested,
+Items required,
+"Items to be requested which are ""Out of Stock"" considering all warehouses based on projected qty and minimum order qty",
+Items which do not exist in Item master can also be entered on customer's request,
+Itemwise Discount,
+Itemwise Recommended Reorder Level,
+Job Applicant,Állásra pályázó
+Job Opening,Nyitott állás
+Job Profile,
+Job Title,
+"Job profile, qualifications required etc.",
+Jobs Email Settings,Állás levelezéseinek beállításai
+Journal Entries,Könyvelési tételek
+Journal Entry,Könyvelési tétel
+Journal Voucher,Könyvelési bizonylat
+Journal Voucher Detail,Könyvelési bizonylat adatai
+Journal Voucher Detail No,
+Journal Voucher {0} does not have account {1} or already matched against other voucher,
+"Journal Voucher {0} is linked against Order {1}, hence it must be fetched as advance in Invoice as well.",
+Journal Vouchers {0} are un-linked,
+Kapcsolódó dokumentumok útvonala,
+"Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment. ",
+Keep a track of communication related to this enquiry which will help for future reference.,
+Keep it web friendly 900px (w) by 100px (h),
+Key Performance Area,Teljesítménymutató terület
+Key Responsibility Area,Felelősségi terület
+Kg,
+LR Date,
+LR No,
+Label,Felirat
+Landed Cost Help,
+Landed Cost Item,
+Landed Cost Purchase Receipt,
+Landed Cost Taxes and Charges,
+Landed Cost Voucher,
+Landed Cost Voucher Amount,
+Language,Nyelv
+Last Name,Keresztnév
+Last Order Amount,
+Last Purchase Rate,Utolsó beszerzési ár
+Last Sales Order Date,
+Latest,
+Lead,Célpont
+Lead Details,Célpont adatai
+Lead Id,Célpont ID
+Lead Name,Célpont neve
+Lead Owner,Célpont tulajdonosa
+Lead Source,Célpont forrása
+Lead Status,Célpont állapota
+Lead Time Date,Átfutási idő dátuma
+Lead Time Days,Átfutási idő napokban
+Lead Time days is number of days by which this item is expected in your warehouse. This days is fetched in Material Request when you select this item.,
+Lead Type,Célpont típusa
+Lead must be set if Opportunity is made from Lead,
+Leave Allocation,Szabadság lefoglalása
+Leave Allocation Tool,Szabadság Lefoglaló Eszköz
+Leave Application,Szabadságok
+Leave Approver,
+Leave Approvers,
+Leave Balance Before Application,
+Leave Block List,
+Leave Block List Allow,
+Leave Block List Allowed,
+Leave Block List Date,
+Leave Block List Dates,
+Leave Block List Name,
+Leave Blocked,
+Leave Control Panel,
+Leave Encashed?,
+Leave Encashment Amount,
+Leave Type,Szabadság típusa
+Leave Type Name,
+Leave Without Pay,
+Leave application has been approved.,
+Leave application has been rejected.,
+Leave approver must be one of {0},
+Leave blank if considered for all branches,
+Leave blank if considered for all departments,
+Leave blank if considered for all designations,
+Leave blank if considered for all employee types,
+"Leave can be approved by users with Role, ""Leave Approver""",
+Leave of type {0} cannot be longer than {1},
+Leaves Allocated Successfully for {0},
+Leaves for type {0} already allocated for Employee {1} for Fiscal Year {0},
+Leaves must be allocated in multiples of 0.5,
+Ledger,
+Ledgers,
+Left,Elment
+Legal,
+Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,
+Legal Expenses,
+Letter Head,Levél fejléc
+Letter Heads for print templates.,
+Level,Szint
+Lft,
+Liability,
+Link,
+List a few of your customers. They could be organizations or individuals.,
+List a few of your suppliers. They could be organizations or individuals.,
+List items that form the package.,
+List of users who can edit a particular Note,
+List this Item in multiple groups on the website.,
+"List your products or services that you buy or sell. Make sure to check the Item Group, Unit of Measure and other properties when you start.",
+"List your tax heads (e.g. VAT, Excise; they should have unique names) and their standard rates. This will create a standard template, which you can edit and add more later.",
+Loading...,Betöltés...
+Loans (Liabilities),
+Loans and Advances (Assets),
+Local,
+"Log of Activities performed by users against Tasks that can be used for tracking time, billing.",
+Login,Belépés
+Login with your new User ID,
+Logo,
+Logo and Letter Heads,
+Lost,
+Lost Reason,
+Low,Alacsony
+Lower Income,
+MTN Details,
+Main,
+Main Reports,Fő jelentések
+Maintain Same Rate Throughout Sales Cycle,
+Maintain same rate throughout purchase cycle,
+Maintenance,Karbantartás
+Maintenance Date,Karbantartás dátuma
+Maintenance Details,Karbantartás részletei
+Maintenance Manager,
+Maintenance Schedule,Karbantartás ütemezése
+Maintenance Schedule Detail,Karbantartás ütemezésének részletei
+Maintenance Schedule Item,Karbantartandó eszköz
+Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',
+Maintenance Schedule {0} exists against {0},
+Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,
+Maintenance Schedules,Karbantartási ütemezesék
+Maintenance Status,Karbantartás állapota
+Maintenance Time,Karbantartási idő
+Maintenance Type,Karbantartás típusa
+Maintenance User,
+Maintenance Visit,Karbantartási látogatás
+Maintenance Visit Purpose,Karbantartási látogatás célja
+Maintenance Visit {0} must be cancelled before cancelling this Sales Order,
+Maintenance start date can not be before delivery date for Serial No {0},
+Major/Optional Subjects,
+Make ,
+Make Accounting Entry For Every Stock Movement,
+Make Bank Voucher,
+Make Credit Note,
+Make Debit Note,
+Make Delivery,
+Make Difference Entry,Különbözeti bejegyzés generálása
+Make Excise Invoice,
+Make Installation Note,
+Make Invoice,Számla készítése
+Make Journal Voucher,
+Make Maint. Schedule,Karbant. ütemezés készítése
+Make Maint. Visit,Karbant. látogatás készítése
+Make Maintenance Visit,Karbant. látogatás készítése
+Make Packing Slip,Csomagjegy készítése
+Make Payment,
+Make Payment Entry,
+Make Purchase Invoice,Beszerzési számla készítése
+Make Purchase Order,Beszerzési rendelés készítése
+Make Purchase Receipt,
+Make Salary Slip,Bérlap készítése
+Make Salary Structure,
+Make Sales Invoice,Értékesítési számla készítése
+Make Sales Order,Értékesítési megrendelés készítése
+Make Supplier Quotation,Beszállítói ajánlat készítése
+Make Time Log Batch,
+Make new POS Setting,
+Male,Férfi
+Manage Customer Group Tree.,
+Manage Sales Partners.,
+Manage Sales Person Tree.,
+Manage Territory Tree.,
+Manage cost of operations,
+Management,
+Manager,
+"Mandatory if Stock Item is ""Yes"". Also the default warehouse where reserved quantity is set from Sales Order.",
+Manufacture,
+Manufacture against Sales Order,
+Manufactured Item,
+Manufactured Qty,Gyártott menny.
+Manufactured quantity will be updated in this warehouse,
+Manufactured quantity {0} cannot be greater than planned quanitity {1} in Production Order {2},
+Manufacturer,Gyártó cég
+Manufacturer Part Number,Gyártó cikkszáma
+Manufacturing,Gyártás
+Manufacturing Manager,
+Manufacturing Quantity,Gyártandó mennyiség
+Manufacturing Quantity is mandatory,
+Manufacturing User,
+Margin,Margó
+Marital Status,Családi állapot
+Market Segment,Piaci rész
+Marketing,
+Marketing Expenses,
+Married,Házas
+Mass Mailing,Tömeges email
+Master Name,
+Master Name is mandatory if account type is Warehouse,
+Master Type,
+Masters,Fő adatok
+Match non-linked Invoices and Payments.,
+Material Issue,Anyag probléma
+Material Manager,
+Material Master Manager,
+Material Receipt,Anyag bevételezése
+Material Request,Anyagrendelés
+Material Request Detail No,
+Material Request For Warehouse,Anyagrendelés raktárba
+Material Request Item,Anyagrendelés tétel
+Material Request Items,Anyagrendelés tételek
+Material Request No,Anyagrendelés száma
+Material Request Type,Anyagrendelés típusa
+Material Request of maximum {0} can be made for Item {1} against Sales Order {2},
+Material Request used to make this Stock Entry,
+Material Request {0} is cancelled or stopped,
+Material Requests for which Supplier Quotations are not created,
+Material Requests {0} created,
+Material Requirement,
+Material Transfer,Anyag átrakása
+Material User,
+Materials,Anyagok
+Materials Required (Exploded),
+Max 5 characters,
+Max Days Leave Allowed,
+Max Discount (%),Max. engedmény (%)
+Max Qty,
+Max discount allowed for item: {0} is {1}%,A(z) {0} tételre max. {1}% engedmény adható
+Maximum Amount,
+Maximum {0} rows allowed,
+Maxiumm discount for Item {0} is {1}%,
+Medical,
+Medium,Átlagos
+"Merging is only possible if following properties are same in both records. Group or Ledger, Root Type, Company",
+Message,Üzenet
+Message Parameter,
+Message Sent,
+Message updated,
+Messages,Üzenetek
+Messages greater than 160 characters will be split into multiple messages,
+Middle Income,
+Milestone,Mérföldkő
+Milestone Date,Mérföldkő dátuma
+Milestones,Mérföldkövek
+Milestones will be added as Events in the Calendar,A mérföldkövek eseményként a Naptárhoz lesznek adva
+Min Order Qty,Min. rendelési menny.
+Min Qty,
+Min Qty can not be greater than Max Qty,
+Minimum Amount,
+Minimum Inventory Level,
+Minimum Order Qty,Minimális rendelési mennyiség
+Minute,
+Misc Details,Egyéb adatok
+Miscellaneous Expenses,
+Miscelleneous,Egyéb
+Mobile No,Mobiltelefon
+Mobile No.,Mobiltelefon
+Mode of Payment,Fizetési mód
+Modern,
+Monday,Hétfő
+Month,Hónap
+Monthly,Havi
+Monthly Attendance Sheet,
+Monthly Earning & Deduction,
+Monthly Salary Register,
+Monthly salary statement.,
+More Details,Egyéb adat
+More Info,Több infó
+Motion Picture & Video,
+Moving Average,Mozgó átlag
+Moving Average Rate,Mozgó átlag aránya
+Mr,Úr
+Ms,Hölgy
+Multiple Item prices.,
+"Multiple Price Rule exists with same criteria, please resolve \
+			conflict by assigning priority. Price Rules: {0}",
+Music,zene
+Must be Whole Number,
+Name,Név
+Name and Description,Név és leírás
+Name and Employee ID,
+"Name of new Account. Note: Please don't create accounts for Customers and Suppliers, they are created automatically from the Customer and Supplier master",
+Name of person or organization that this address belongs to.,
+Name of the Budget Distribution,
+Naming Series,Sorszámozási csoport
+Negative Quantity is not allowed,
+Negative Stock Error ({6}) for Item {0} in Warehouse {1} on {2} {3} in {4} {5},
+Negative Valuation Rate is not allowed,
+Negative balance in Batch {0} for Item {1} at Warehouse {2} on {3} {4},
+Net Pay,
+Net Pay (in words) will be visible once you save the Salary Slip.,
+Net Profit / Loss,
+Net Total,Nettó összesen
+Net Total (Company Currency),
+Net Weight,Nettó súly
+Net Weight UOM,
+Net Weight of each Item,
+Net pay cannot be negative,
+Never,Soha
+New Account,
+New Account Name,
+New BOM,Új anyagjegyzék (mire)
+New Communications,Új kommunikáció
+New Company,
+New Cost Center,
+New Cost Center Name,
+New Customer Revenue,
+New Customers,
+New Delivery Notes,Új szállítási megjegyzés
+New Enquiries,Új érdeklődés
+New Leads,Új potenciális vevő
+New Leave Application,
+New Leaves Allocated,Új szabadság lefoglalása
+New Leaves Allocated (In Days),
+New Material Requests,Új anyag igénylés
+New Projects,Új projekt
+New Purchase Orders,Új beszerzési rendelés
+New Purchase Receipts,
+New Quotations,Új árajánlat
+New Sales Orders,Új értékesítési rendelés
+New Serial No cannot have Warehouse. Warehouse must be set by Stock Entry or Purchase Receipt,
+New Stock Entries,Új készlet bejegyzés
+New Stock UOM,
+New Stock UOM is required,
+New Stock UOM must be different from current stock UOM,
+New Supplier Quotations,Új beszállítói ajánlat
+New Support Tickets,Új támogatási jegy
+New UOM must NOT be of type Whole Number,
+New Workplace,Új munkahely
+New {0},
+New {0} Name,
+New {0}: #{1},
+Newsletter,Hírlevél
+Newsletter Content,Hírlevél tartalma
+Newsletter Status,Hírlevél állapota
+Newsletter has already been sent,
+"Newsletters to contacts, leads.","Hírlevél kapcsolattartóknak, célpontoknak."
+Newspaper Publishers,
+Next,
+Next Contact By,
+Next Contact Date,
+Next Date,Következő dátum
+Next Recurring {0} will be created on {1},
+Next email will be sent on:,
+No,Nem
+No Customer Accounts found.,
+No Customer or Supplier Accounts found,
+No Data,
+No Item with Barcode {0},
+No Item with Serial No {0},
+No Items to pack,
+No Permission,Nincs jogosultság
+No Production Orders created,
+No Remarks,
+No Supplier Accounts found. Supplier Accounts are identified based on 'Master Type' value in account record.,
+No Updates For,
+No accounting entries for the following warehouses,
+No address added yet.,
+No contacts added yet.,
+No default Address Template found. Please create a new one from Setup > Printing and Branding > Address Template.,
+No default BOM exists for Item {0},
+No description given,
+No employee found,
+No employee found!,
+No of Requested SMS,
+No of Sent SMS,
+No of Visits,
+No permission,Nincs jogosultság
+No permission to use Payment Tool,
+No record found,Nem található bejegyzés
+No records found in the Invoice table,
+No records found in the Payment table,
+No salary slip found for month: ,
+Non Profit,
+Nos,
+Not Active,Nem aktív
+Not Applicable,Nem értelmezhető
+Not Available,Nincs
+Not Billed,Nem számlázott
+Not Delivered,Nem szállított
+Not In Stock,
+Not Sent,
+Not Set,
+Not allowed to update stock transactions older than {0},
+Not authorized to edit frozen Account {0},
+Not authroized since {0} exceeds limits,
+Not permitted,Nem engedélyezett
+Note,Jegyzet
+Note User,Jegyzetelő
+Note is a free page where users can share documents / notes,
+"Note: Backups and files are not deleted from Dropbox, you will have to delete them manually.",
+"Note: Backups and files are not deleted from Google Drive, you will have to delete them manually.",
+Note: Due Date exceeds the allowed credit days by {0} day(s),
+Note: Email will not be sent to disabled users,
+"Note: If payment is not made against any reference, make Journal Voucher manually.",
+Note: Item {0} entered multiple times,
+Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,
+Note: Reference Date {0} is after invoice due date {1},
+Note: System will not check over-delivery and over-booking for Item {0} as quantity or amount is 0,
+Note: There is not enough leave balance for Leave Type {0},
+Note: This Cost Center is a Group. Cannot make accounting entries against groups.,
+Note: {0},
+Notes,Jegyzetek
+Notes:,Jegyzet:
+Nothing to request,
+Notice (days),
+Notification Control,
+Notification Email Address,Értesítendő emailcímek
+Notify by Email on creation of automatic Material Request,
+Number Format,Szám formátum
+Number of Order,
+Offer Date,
+Office,Iroda
+Office Equipments,
+Office Maintenance Expenses,
+Office Rent,
+Old Parent,
+On Net Total,Nettó összeshez
+On Previous Row Amount,
+On Previous Row Total,
+Online Auctions,
+Only Leave Applications with status 'Approved' can be submitted,
+"Only Serial Nos with status ""Available"" can be delivered.",Csak az 'Elérhető' állapotú sorozatszám szállítható ki.
+Only leaf nodes are allowed in transaction,
+Only the selected Leave Approver can submit this Leave Application,
+Open,Megnyitva
+Open Production Orders,Nyitott gyártási rendelések
+Open Tickets,Nyitott jegyek
+Opening (Cr),
+Opening (Dr),
+Opening Date,Kezdési dátum
+Opening Entry,Kezdő tétel
+Opening Qty,
+Opening Time,Kezdési idő
+Opening for a Job.,
+Operating Cost,
+Operation Description,
+Operation No,
+Operation Time (mins),
+Operation {0} is repeated in Operations Table,
+Operation {0} not present in Operations Table,
+Operations,
+Opportunity,Lehetőség
+Opportunity Date,A Lehetőség dátuma
+Opportunity From,Lehetőség tőle
+Opportunity Item,Lehetőség tétel
+Opportunity Items,Lehetőség tételek
+Opportunity Lost,
+Opportunity Type,Lehetőség típusa
+Optional. This setting will be used to filter in various transactions.,
+Order Type,Rendelés típusa
+Order Type must be one of {0},
+Ordered,
+Ordered Items To Be Billed,Rendelt mennyiség számlázásra
+Ordered Items To Be Delivered,Rendelt mennyiség szállításra
+Ordered Qty,
+"Ordered Qty: Quantity ordered for purchase, but not received.",
+Ordered Quantity,Rendelt mennyiség
+Orders released for production.,
+Organization Name,
+Organization Profile,Szervezet profilja
+Organization branch master.,
+Organization unit (department) master.,
+Other,Egyéb
+Other Details,Egyéb részletek
+Others,
+Out Qty,
+Out of AMC,ÉKSz időn túl
+Out of Warranty,Garanciaidőn túl
+Outgoing,Kimenő
+Outstanding Amount,
+Outstanding for {0} cannot be less than zero ({1}),
+Overdue,
+Overdue: ,
+Overhead,
+Overheads,
+Overlapping conditions found between:,
+Overview,Áttekintés
+Owned,Tulaj
+Owner,
+P L A - Cess Portion,
+PL or BS,
+PO Date,
+PO No,
+POP3 Mail Server,
+POP3 Mail Settings,
+POP3 mail server (e.g. pop.gmail.com),
+POP3 server e.g. (pop.gmail.com),
+POS,
+POS Setting,POS beállítások
+POS Setting required to make POS Entry,
+POS Setting {0} already created for user: {1} and company {2},
+POS View,
+PR Detail,
+Package Item Details,A csomagolási tétel részletei
+Package Items,Csomag tételei
+Package Weight Details,Csomag súlyának adatai
+Packed Item,
+Packed quantity must equal quantity for Item {0} in row {1},
+Packing Details,
+Packing List,
+Packing Slip,Csomagjegy
+Packing Slip Item,Csomagjegy tétel
+Packing Slip Items,Csomagjegy tételek
+Packing Slip(s) cancelled,
+Page Break,Oldaltörés
+Page Name,Oldal neve
+Paid,
+Paid Amount,
+Paid amount + Write Off Amount can not be greater than Grand Total,
+Pair,
+Parameter,Paraméter
+Parent Account,
+Parent Cost Center,
+Parent Customer Group,
+Parent Detail docname,
+Parent Item,
+Parent Item Group,
+Parent Item {0} must be not Stock Item and must be a Sales Item,
+Parent Party Type,
+Parent Sales Person,
+Parent Territory,
+Parent Website Route,
+Parenttype,
+Part-time,Részidő
+Partially Completed,Részben elvégezve
+Partly Billed,Részlegesen számlázott
+Partly Delivered,
+Partner Target Detail,
+Partner Type,Partnerségi kapcsolat
+Partner's Website,
+Party,
+Party Account,
+Party Details,
+Party Type,
+Party Type Name,
+Passive,
+Passport Number,
+Password,Jelszó
+Pay To / Recd From,Fizetni / követelni tőle
+Payable,
+Payables,
+Payables Group,
+Payment Account,
+Payment Amount,
+Payment Days,
+Payment Due Date,Fizetési határidő
+Payment Mode,
+Payment Pending,
+Payment Period Based On Invoice Date,
+Payment Received,
+Payment Reconciliation,
+Payment Reconciliation Invoice,
+Payment Reconciliation Invoices,
+Payment Reconciliation Payment,
+Payment Reconciliation Payments,
+Payment Tool,
+Payment Tool Detail,
+Payment Tool Details,
+Payment Type,
+"Payment against {0} {1} cannot be greater \
+					than Outstanding Amount {2}",
+Payment cannot be made for empty cart,
+Payment of salary for the month {0} and year {1},
+Payments,
+Payments Made,
+Payments Received,
+Payments made during the digest period,
+Payments received during the digest period,
+Payroll Settings,
+Pending,Függő
+Pending Amount,
+Pending Items {0} updated,
+Pending Review,Tájékoztatás
+Pending SO Items For Purchase Request,
+Pension Funds,
+Percentage Allocation,
+Percentage Allocation should be equal to 100%,
+Percentage variation in quantity to be allowed while receiving or delivering this item.,
+Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.,
+Performance appraisal.,
+Period,
+Period Closing Entry,
+Period Closing Voucher,
+Period From and Period To dates mandatory for recurring %s,
+Periodicity,
+Permanent Address,
+Permanent Address Is,
+Permission,Jogosultság
+Personal,Személyes
+Personal Details,
+Personal Email,Személyes emailcím
+Pharmaceutical,
+Pharmaceuticals,
+Phone,Telefon
+Phone No,Telefonszám
+Piecework,
+Pincode,Irányítószám
+Place of Issue,Probléma helye
+Plan for maintenance visits.,
+Planned Qty,
+"Planned Qty: Quantity, for which, Production Order has been raised, but is pending to be manufactured.",
+Planned Quantity,
+Planning,
+Plant,Gyár
+Plant and Machinery,
+Please Enter Abbreviation or Short Name properly as it will be added as Suffix to all Account Heads.,
+Please Update SMS Settings,
+Please add expense voucher details,
+Please add to Modes of Payment from Setup.,
+Please click on 'Generate Schedule',
+Please click on 'Generate Schedule' to fetch Serial No added for Item {0},
+Please click on 'Generate Schedule' to get schedule,
+Please create Customer from Lead {0},
+Please create Salary Structure for employee {0},
+Please create new account from Chart of Accounts.,
+Please do NOT create Account (Ledgers) for Customers and Suppliers. They are created directly from the Customer / Supplier masters.,
+Please enter 'Expected Delivery Date',
+Please enter 'Is Subcontracted' as Yes or No,
+Please enter 'Repeat on Day of Month' field value,
+Please enter Account Receivable/Payable group in company master,
+Please enter Approving Role or Approving User,
+Please enter BOM for Item {0} at row {1},
+Please enter Company,
+Please enter Cost Center,
+Please enter Delivery Note No or Sales Invoice No to proceed,
+Please enter Employee Id of this sales parson,
+Please enter Expense Account,
+Please enter Item Code to get batch no,
+Please enter Item Code.,
+Please enter Item first,
+Please enter Maintaince Details first,
+Please enter Master Name once the account is created.,
+Please enter Payment Amount in atleast one row,
+Please enter Planned Qty for Item {0} at row {1},
+Please enter Production Item first,
+Please enter Purchase Receipt No to proceed,
+Please enter Purchase Receipt first,
+Please enter Purchase Receipts,
+Please enter Reference date,
+Please enter Taxes and Charges,
+Please enter Warehouse for which Material Request will be raised,
+Please enter Write Off Account,
+Please enter atleast 1 invoice in the table,
+Please enter company first,
+Please enter company name first,
+Please enter default Unit of Measure,
+Please enter default currency in Company Master,
+Please enter email address,Emailcím megadása
+Please enter item details,
+Please enter message before sending,
+Please enter parent account group for warehouse {0},
+Please enter parent cost center,
+Please enter quantity for Item {0},
+Please enter relieving date.,
+Please enter sales order in the above table,
+Please enter the Against Vouchers manually,
+Please enter valid Company Email,
+Please enter valid Email Id,
+Please enter valid Personal Email,
+Please enter valid mobile nos,
+Please find attached {0} #{1},
+Please install dropbox python module,
+Please mention no of visits required,
+Please pull items from Delivery Note,
+Please remove this Invoice {0} from C-Form {1},
+Please save the Newsletter before sending,
+Please save the document before generating maintenance schedule,
+Please see attachment,
+"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row",
+Please select Bank Account,
+Please select Carry Forward if you also want to include previous fiscal year's balance leaves to this fiscal year,
+Please select Category first,
+Please select Charge Type first,
+Please select Fiscal Year,
+Please select Group or Ledger value,
+Please select Incharge Person's name,
+"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Sales BOM",
+Please select Price List,
+Please select Start Date and End Date for Item {0},
+Please select Time Logs.,
+Please select a csv file,
+Please select a valid csv file with data,
+Please select a value for {0} quotation_to {1},
+"Please select an ""Image"" first",
+Please select charge type first,
+Please select company first,
+Please select company first.,
+Please select item code,
+Please select month and year,
+Please select prefix first,
+Please select the document type first,
+Please select weekly off day,
+Please select {0},
+Please select {0} first,
+Please select {0} first.,
+Please set Dropbox access keys in your site config,
+Please set Google Drive access keys in {0},
+Please set User ID field in an Employee record to set Employee Role,
+Please set default Cash or Bank account in Mode of Payment {0},
+Please set default value {0} in Company {0},
+Please set {0},
+Please setup Employee Naming System in Human Resource > HR Settings,
+Please setup numbering series for Attendance via Setup > Numbering Series,
+Please setup your POS Preferences,
+Please setup your chart of accounts before you start Accounting Entries,
+Please specify,
+Please specify Company,Add meg a Cég nevét
+Please specify Company to proceed,
+Please specify Default Currency in Company Master and Global Defaults,
+Please specify a,
+Please specify a valid 'From Case No.',
+Please specify a valid Row ID for {0} in row {1},
+Please specify either Quantity or Valuation Rate or both,
+Please submit to update Leave Balance.,
+Plot,
+Point of Sale,
+Point-of-Sale Setting,Értékesítési helyek (POS) beállítása
+Post Graduate,
+Postal,Postai
+Postal Expenses,
+Posting Date,Rögzítés dátuma
+Posting Time,Rögzítés ideje
+Posting date and posting time is mandatory,
+Posting timestamp must be after {0},
+Potential Sales Deal,
+Potential opportunities for selling.,
+Preferred Billing Address,Ez legyen a számlázási cím is
+Preferred Shipping Address,Ez legyen a szállítási cím is
+Prefix,
+Present,Jelen
+Prevdoc DocType,
+Prevdoc Doctype,
+Preview,Előnézet
+Previous,Előző
+Previous Work Experience,Előző munkahely
+Price,Árazás
+Price / Discount,Árazás / Engedmény
+Price List,Árlista
+Price List Currency,Árlista pénzneme
+Price List Currency not selected,
+Price List Exchange Rate,
+Price List Master,
+Price List Name,Árlista neve
+Price List Rate,Árlista arány
+Price List Rate (Company Currency),
+Price List master.,
+Price List must be applicable for Buying or Selling,
+Price List not selected,
+Price List {0} is disabled,
+Price or Discount,Árazás vagy engedmény
+Pricing Rule,Árazási szabály
+Pricing Rule Help,
+"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.",
+"Pricing Rule is made to overwrite Price List / define discount percentage, based on some criteria.",
+Pricing Rules are further filtered based on quantity.,
+Primary,Elsődleges
+Print Format Style,Nyomtatvány sablon stílusa
+Print Heading,Nyomtatvány fejszövege
+Print Without Amount,Nyomtatás érték nélkül
+Print and Stationary,
+Printing and Branding,Nyomtatás és márkaépítés
+Priority,Prioritás
+Private,Magán
+Private Equity,
+Privilege Leave,
+Probation,
+Process Payroll,
+Produced,
+Produced Quantity,
+Product Enquiry,
+Production,
+Production Order,Gyártásrendelés
+Production Order status is {0},
+Production Order {0} must be cancelled before cancelling this Sales Order,
+Production Order {0} must be submitted,
+Production Orders,Gyártási rendelések
+Production Orders in Progress,Folyamatban lévő gyártási rendelések
+Production Plan Item,Gyártási terv tétele
+Production Plan Items,Gyártási terv tételek
+Production Plan Sales Order,
+Production Plan Sales Orders,
+Production Planning Tool,Gyártástervező eszköz
+Production order number is mandatory for stock entry purpose manufacture,
+Products,
+"Products will be sorted by weight-age in default searches. More the weight-age, higher the product will appear in the list.",
+Professional Tax,
+Profit and Loss,
+Profit and Loss Statement,
+Project,Projekt
+Project Costing,Projekt költségszámítás
+Project Details,Projekt részletek
+Project Id,
+Project Manager,
+Project Milestone,Projekt mérföldkő
+Project Milestones,Projekt mérföldkövek
+Project Name,Projekt neve
+Project Start Date,Projekt kezdési dátuma
+Project Status,Projekt állapota
+Project Type,Projekt típusa
+Project Value,Projekt érték
+Project activity / task.,Projekt feladatok és tevékenységek.
+Project master.,Projektek.
+Project will get saved and will be searchable with project name given,Ezen a néven lesz kereshető a projekt mentés után.
+Project wise Stock Tracking,Projekt raktárkészlet követése
+Project wise Stock Tracking ,
+Project-wise data is not available for Quotation,
+Projected,
+Projected Qty,Tervezett mennyiség
+Projects,Projektek
+Projects & System,
+Projects Manager,
+Projects User,
+Prompt for Email on Submission of,
+Proposal Writing,
+Provide email id registered in company,
+Provisional Profit / Loss (Credit),
+Public,Nyilvános
+Published on website at: {0},
+Publishing,
+Pull sales orders (pending to deliver) based on the above criteria,
+Purchase,Beszerzés
+Purchase / Manufacture Details,Beszerzés / gyártás adatai
+Purchase Analytics,Beszerzési analitika
+Purchase Common,
+Purchase Details,Beszerzés részletei
+Purchase Discounts,
+Purchase Invoice,Beszerzési számla
+Purchase Invoice Advance,
+Purchase Invoice Advances,
+Purchase Invoice Item,
+Purchase Invoice Trends,
+Purchase Invoice {0} is already submitted,
+Purchase Item,
+Purchase Manager,
+Purchase Master Manager,
+Purchase Order,Beszerzési rendelés
+Purchase Order Item,Beszerzési rendelés tétel
+Purchase Order Item No,Beszerzési rendelés tételszáma
+Purchase Order Item Supplied,
+Purchase Order Items,Beszerzési rendelés tételei
+Purchase Order Items Supplied,
+Purchase Order Items To Be Billed,
+Purchase Order Items To Be Received,
+Purchase Order Message,Beszerzési rendelés szövege
+Purchase Order Required,Beszerzési rendelés szükséges
+Purchase Order Trends,
+Purchase Order number required for Item {0},
+Purchase Order {0} is 'Stopped',
+Purchase Order {0} is not submitted,
+Purchase Orders given to Suppliers.,
+Purchase Price List,
+Purchase Receipt,Beszerzési igazolás
+Purchase Receipt Item,Beszerzési igazolás tétele
+Purchase Receipt Item Supplied,
+Purchase Receipt Item Supplieds,
+Purchase Receipt Items,Beszerzési igazolás tételek
+Purchase Receipt Message,Beszerzési igazolás szövege
+Purchase Receipt No,Beszerzési igazolás száma
+Purchase Receipt Required,Beszerzési igazolás szükséges
+Purchase Receipt Trends,
+Purchase Receipt must be submitted,
+Purchase Receipt number required for Item {0},
+Purchase Receipt {0} is not submitted,
+Purchase Receipts,
+Purchase Register,
+Purchase Return,Beszerzés visszaküldése
+Purchase Returned,Visszaküldött beszerzés
+Purchase Taxes and Charges,Beszerzési adók és költségek
+Purchase Taxes and Charges Master,Beszerzési adók és költségek sablon
+Purchase User,
+"Purchase rate for item: {0} not found, which is required to book accounting entry (expense). Please mention item price against a buying price list.",
+Purchse Order number required for Item {0},
+Purpose,Oka
+Purpose must be one of {0},
+QA Inspection,
+Qty,Menny.
+Qty Consumed Per Unit,
+Qty To Manufacture,Menny. gyártáshoz
+Qty as per Stock UOM,
+Qty to Deliver,
+Qty to Order,
+Qty to Receive,
+Qty to Transfer,
+Qualification,
+Quality,Minőség
+Quality Inspection,Minőségvizsgálat
+Quality Inspection Parameters,Minőségvizsgálat paraméterei
+Quality Inspection Reading,
+Quality Inspection Readings,
+Quality Inspection required for Item {0},
+Quality Management,
+Quality Manager,
+Quantity,Mennyiség
+Quantity Requested for Purchase,Igényelt beszerzendő mennyiség
+Quantity and Rate,Mennyiség és ár
+Quantity and Warehouse,Mennyiség és raktár
+Quantity cannot be a fraction in row {0},
+Quantity for Item {0} must be less than {1},
+Quantity in row {0} ({1}) must be same as manufactured quantity {2},
+Quantity of item obtained after manufacturing / repacking from given quantities of raw materials,
+Quantity required for Item {0} in row {1},
+Quarter,
+Quarterly,Negyedéves
+Quick Help,Gyors súgó
+Quotation,Árajánlat
+Quotation Item,Árajánlat tétele
+Quotation Items,Árajánlat tételek
+Quotation Lost Reason,Árajánlat elutasításának oka
+Quotation Message,
+Quotation To,Árajánlat az ő részére
+Quotation Trends,
+Quotation {0} is cancelled,{0} ajánlat törölve
+Quotation {0} not of type {1},
+Quotations received from Suppliers.,
+Quotes to Leads or Customers.,
+Raise Material Request when stock reaches re-order level,
+Raised By,Felvetette
+Raised By (Email),Felvetette (Email)
+Random,Véletlen
+Range,Tartomány
+Rate,Érték
+Rate ,
+Rate (%),Mérték (%)
+Rate (Company Currency),
+Rate Of Materials Based On,Anyagköltség számítás módja
+Rate and Amount,Érték és mennyiség
+Rate at which Customer Currency is converted to customer's base currency,
+Rate at which Price list currency is converted to company's base currency,
+Rate at which Price list currency is converted to customer's base currency,
+Rate at which customer's currency is converted to company's base currency,
+Rate at which supplier's currency is converted to company's base currency,
+Rate at which this tax is applied,
+Raw Material,
+Raw Material Item Code,
+Raw Materials Supplied,
+Raw Materials Supplied Cost,
+Raw material cannot be same as main Item,
+Re-Open Ticket,
+Re-Order Level,Újra rendelési szint
+Re-Order Qty,Újra rendelendő mennyiség
+Re-order,Újra rendelés
+Re-order Level,Újra rendelési szint
+Re-order Qty,Újra rendelendő mennyiség
+Read,Olvasás
+Reading 1,
+Reading 10,
+Reading 2,
+Reading 3,
+Reading 4,
+Reading 5,
+Reading 6,
+Reading 7,
+Reading 8,
+Reading 9,
+Real Estate,
+Reason,
+Reason for Leaving,Kilépés indoka
+Reason for Resignation,Felmondás indoka
+Reason for losing,
+Recd Quantity,
+Receivable,
+Receivable / Payable account will be identified based on the field Master Type,
+Receivables,
+Receivables / Payables,
+Receivables Group,
+Received,Kapott
+Received Date,
+Received Items To Be Billed,
+Received Or Paid,
+Received Qty,
+Received and Accepted,
+Receiver List,
+Receiver List is empty. Please create Receiver List,
+Receiver Parameter,
+Recipients,Címzettek
+Reconcile,
+Reconciliation Data,
+Reconciliation HTML,
+Reconciliation JSON,
+Record item movement.,
+Recurring Id,
+Recurring Invoice,Ismétlődő számla
+Recurring Order,
+Recurring Type,Gyakoriság
+Reduce Deduction for Leave Without Pay (LWP),
+Reduce Earning for Leave Without Pay (LWP),
+Ref,
+Ref Code,
+Ref Date,
+Ref SQ,
+Reference,Kapcsolat
+Reference #{0} dated {1},
+Reference Date,
+Reference Name,Hivatkozott tétel
+Reference No,
+Reference No & Reference Date is required for {0},
+Reference No is mandatory if you entered Reference Date,
+Reference Number,Hivatkozási szám
+Reference Row #,
+Refresh,Frissítés
+Registration Details,Regisztrációs adatok
+Registration Info,Regisztrációs adatok
+Rejected,Elutasítva
+Rejected Quantity,Elutasított darabszám
+Rejected Serial No,Elutasított sorozatszám
+Rejected Warehouse,Elutasított raktár
+Rejected Warehouse is mandatory against regected item,
+Relation,Kapcsolat
+Relieving Date,
+Relieving Date must be greater than Date of Joining,
+Remark,Megjegyzés
+Remarks,Megjegyzések
+Remove item if charges is not applicable to that item,
+Rename,
+Rename Log,Átnevezés naplója
+Rename Tool,Tömeges átnevező eszköz
+Rent Cost,
+Rent per hour,
+Rented,Bérelt
+Reorder Level,
+Reorder Qty,
+Repack,
+Repeat Customer Revenue,
+Repeat Customers,
+Repeat on Day of Month,Kiállítás napja
+Replace,Csere
+Replace Item / BOM in all BOMs,
+"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM",
+Replied,Megválaszolt
+Report Date,Jelentés dátuma
+Report Type,Jelentés típusa
+Report Type is mandatory,
+Reports to,
+Reqd By Date,
+Reqd by Date,
+Request Type,
+Request for Information,
+Request for purchase.,
+Requested,
+Requested For,
+Requested Items To Be Ordered,
+Requested Items To Be Transferred,
+Requested Qty,
+"Requested Qty: Quantity requested for purchase, but not ordered.",
+Requests for items.,
+Required By,
+Required Date,
+Required Qty,
+Required only for sample item.,
+Required raw materials issued to the supplier for producing a sub - contracted item.,
+Research,
+Research & Development,
+Researcher,
+Reseller,Viszonteladó
+Reserved,
+Reserved Qty,
+"Reserved Qty: Quantity ordered for sale, but not delivered.",
+Reserved Quantity,
+Reserved Warehouse,
+Reserved Warehouse in Sales Order / Finished Goods Warehouse,
+Reserved Warehouse is missing in Sales Order,
+Reserved Warehouse required for stock Item {0} in row {1},
+Reserved warehouse required for stock item {0},
+Reserves and Surplus,
+Reset Filters,
+Resignation Letter Date,
+Resolution,Megoldás
+Resolution Date,Megoldás dátuma
+Resolution Details,Megoldás részletei
+Resolved By,Megoldotta
+Rest Of The World,
+Retail,Kiskereskedelem
+Retail & Wholesale,
+Retailer,Kiskereskedő
+Review Date,
+Rgt,
+Role Allowed to edit frozen stock,Zárolt készlet szerkesztésének engedélyezése ennek a beosztásnak
+Role that is allowed to submit transactions that exceed credit limits set.,
+Root Type,
+Root Type is mandatory,
+Root account can not be deleted,
+Root cannot be edited.,
+Root cannot have a parent cost center,
+Rounded Off,
+Rounded Total,Kerekített összeg
+Rounded Total (Company Currency),
+Row # ,
+Row # {0}: ,
+Row #{0}: Please specify Serial No for Item {1},
+Row {0}: Account {1} does not match with {2} {3} Name,
+Row {0}: Account {1} does not match with {2} {3} account,
+Row {0}: Allocated amount {1} must be less than or equals to JV amount {2},
+Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},
+Row {0}: Conversion Factor is mandatory,
+Row {0}: Credit entry can not be linked with a {1},
+Row {0}: Debit entry can not be linked with a {1},
+Row {0}: Payment Amount cannot be greater than Outstanding Amount,
+Row {0}: Payment against Sales/Purchase Order should always be marked as advance,
+Row {0}: Payment amount can not be negative,
+Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,
+Row {0}: Qty is mandatory,
+"Row {0}: Qty not avalable in warehouse {1} on {2} {3}.
+					Available Qty: {4}, Transfer Qty: {5}",
+"Row {0}: To set {1} periodicity, difference between from and to date \
+						must be greater than or equal to {2}",
+Row {0}: {1} is not a valid {2},
+Row {0}:Start Date must be before End Date,
+Rules for adding shipping costs.,
+Rules for applying pricing and discount.,
+Rules to calculate shipping amount for a sale,
+S.O. No.,
+SHE Cess on Excise,
+SHE Cess on Service Tax,
+SHE Cess on TDS,
+SMS Center,SMS Központ
+SMS Gateway URL,SMS átjáró URL-je
+SMS Log,SMS napló
+SMS Parameter,SMS paraméter
+SMS Sender Name,SMS küldő neve
+SMS Settings,SMS beállítások
+SO Date,
+SO Pending Qty,
+SO Qty,
+Salary,Bér
+Salary Information,Bérinformáció
+Salary Manager,Bér menedzser
+Salary Mode,Fizetés módja
+Salary Slip,Bérlap
+Salary Slip Deduction,
+Salary Slip Earning,
+Salary Slip of employee {0} already created for this month,
+Salary Structure,Bérrendszer
+Salary Structure Deduction,
+Salary Structure Earning,
+Salary Structure Earnings,
+Salary breakup based on Earning and Deduction.,
+Salary components.,
+Salary template master.,
+Sales,Értékesítés
+Sales Analytics,
+Sales BOM,Értékesítései csomag
+Sales BOM Help,
+Sales BOM Item,Értékesítései csomag elemei
+Sales BOM Items,Értékesítései csomag elemei
+Sales Browser,
+Sales Details,Értékesítés részletei
+Sales Discounts,
+Sales Email Settings,Értékesítés levelezésének beállításai
+Sales Expenses,
+Sales Extras,
+Sales Funnel,
+Sales Invoice,Eladási számla
+Sales Invoice Advance,Értékesítési számla előleg
+Sales Invoice Item,
+Sales Invoice Items,Eladási számla tételei
+Sales Invoice Message,
+Sales Invoice No,
+Sales Invoice Trends,
+Sales Invoice {0} has already been submitted,
+Sales Invoice {0} must be cancelled before cancelling this Sales Order,
+Sales Item,
+Sales Manager,
+Sales Master Manager,
+Sales Order,Értékesítési megrendelés
+Sales Order Date,
+Sales Order Item,
+Sales Order Items,
+Sales Order Message,
+Sales Order No,
+Sales Order Required,
+Sales Order Trends,
+Sales Order required for Item {0},
+Sales Order {0} is not submitted,
+Sales Order {0} is not valid,
+Sales Order {0} is stopped,
+Sales Partner,Értékesítő partner
+Sales Partner Name,Értékesítő partner neve
+Sales Partner Target,Értékesítő partner célja
+Sales Partners Commission,Értékesítő partner jutaléka
+Sales Person,Értékesítő
+Sales Person Name,Értékesítő neve
+Sales Person Target Variance Item Group-Wise,
+Sales Person Targets,
+Sales Person-wise Transaction Summary,
+Sales Price List,
+Sales Register,
+Sales Return,Eladás visszaküldése
+Sales Returned,Visszaküldött eladás
+Sales Taxes and Charges,Értékesítési adók és költségek
+Sales Taxes and Charges Master,Értékesítési adók és költségek sablon
+Sales Team,Értékesítő csapat
+Sales Team Details,Értékesítő csapat részletei
+Sales Team1,Értékesítő csapat1
+Sales User,
+Sales and Purchase,Értékesítés és beszerzés
+Sales campaigns.,
+Salutation,Megszólítás
+Sample Size,
+Sanctioned Amount,
+Saturday,Szombat
+Schedule,Ütemezés
+Schedule Date,
+Schedule Details,Ütemezés részletei
+Scheduled,Ütemezett
+Scheduled Date,Ütemezett dátum
+Scheduled to send to {0},
+Scheduled to send to {0} recipients,
+Scheduler Failed Events,
+School/University,Iskola/Egyetem
+Score (0-5),Pontszám (0-5)
+Score Earned,
+Score must be less than or equal to 5,
+Scrap %,Hulladék %
+Seasonality for setting budgets.,
+Secretary,
+Secured Loans,
+Securities & Commodity Exchanges,
+Securities and Deposits,
+"See ""Rate Of Materials Based On"" in Costing Section",Lásd az 'Anyagköltség számítás módja' a Költség részben
+"Select ""Yes"" for sub - contracting items",
+"Select ""Yes"" if this item is used for some internal purpose in your company.",
+"Select ""Yes"" if this item represents some work like training, designing, consulting etc.",
+"Select ""Yes"" if you are maintaining stock of this item in your Inventory.",
+"Select ""Yes"" if you supply raw materials to your supplier to manufacture this item.",
+Select Budget Distribution to unevenly distribute targets across months.,
+"Select Budget Distribution, if you want to track based on seasonality.",
+Select Company...,
+Select DocType,
+Select Fiscal Year,
+Select Fiscal Year...,
+Select Items,
+Select Sales Orders,
+Select Sales Orders from which you want to create Production Orders.,
+Select Time Logs and Submit to create a new Sales Invoice.,
+Select Transaction,
+Select Your Language,
+Select account head of the bank where cheque was deposited.,
+Select company name first.,
+Select template from which you want to get the Goals,
+Select the Employee for whom you are creating the Appraisal.,
+Select the period when the invoice will be generated automatically,
+Select the relevant company name if you have multiple companies,
+Select the relevant company name if you have multiple companies.,
+Select type of transaction,Tranzakció kiválasztása
+Select who you want to send this newsletter to,
+Select your home country and check the timezone and currency.,
+"Selecting ""Yes"" will allow this item to appear in Purchase Order , Purchase Receipt.",
+"Selecting ""Yes"" will allow this item to figure in Sales Order, Delivery Note",
+"Selecting ""Yes"" will allow you to create Bill of Material showing raw material and operational costs incurred to manufacture this item.",
+"Selecting ""Yes"" will allow you to make a Production Order for this item.",
+"Selecting ""Yes"" will give a unique identity to each entity of this item which can be viewed in the Serial No master.",
+Selling,Értékesítés
+Selling Amount,
+Selling Rate,
+Selling Settings,Értékesítés beállításai
+"Selling must be checked, if Applicable For is selected as {0}",
+Send,Küldés
+Send Autoreply,
+Send Email,Email küldése
+Send From,
+Send Notifications To,
+Send Now,
+Send SMS,SMS küldése
+Send To,Címzett
+Send To Type,Célcsoport típusa
+Send automatic emails to Contacts on Submitting transactions.,
+Send mass SMS to your contacts,
+Send regular summary reports via Email.,
+Send to this list,
+Sender Name,Küldő neve
+Sent,Elküldött
+Sent On,
+Separate production order will be created for each finished good item.,
+Serial #,
+Serial No,Sorozatszám
+Serial No / Batch,
+Serial No Details,Sorozatszám adatai
+Serial No Service Contract Expiry,Sorozatszám karbantartási szerződés lejárati ideje
+Serial No Status,Sorozatszám állapota
+Serial No Warranty Expiry,Sorozatszám garanciaidő lejárta
+Serial No is mandatory for Item {0},
+Serial No {0} created,
+Serial No {0} does not belong to Delivery Note {1},
+Serial No {0} does not belong to Item {1},
+Serial No {0} does not belong to Warehouse {1},
+Serial No {0} does not exist,A {0} sorozatszám nem létezik
+Serial No {0} has already been received,
+Serial No {0} is under maintenance contract upto {1},
+Serial No {0} is under warranty upto {1},
+Serial No {0} not found,
+Serial No {0} not in stock,
+Serial No {0} quantity {1} cannot be a fraction,
+Serial No {0} status must be 'Available' to Deliver,"A(z) {0} sorozatszám állapota 'Elérhető' kell, hogy legyen a szállításhoz"
+Serial Nos Required for Serialized Item {0},
+Serial Number Series,Sorozatszám sorozat
+Serial number {0} entered more than once,
+"Serialized Item {0} cannot be updated \
+					using Stock Reconciliation",
+Series,Sorszám
+Series List for this Transaction,
+Series Updated,
+Series Updated Successfully,
+Series is mandatory,
+Series {0} already used in {1},{0} sorszám már használva van itt: {1}
+Service,
+Service Address,Szervizelés helye
+Service Tax,
+Services,Szolgáltatás
+Set,
+"Set Default Values like Company, Currency, Current Fiscal Year, etc.",
+Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution.,
+Set Status as Available,
+Set as Default,
+Set as Lost,
+Set prefix for numbering series on your transactions,
+Set targets Item Group-wise for this Sales Person.,
+Setting Account Type helps in selecting this Account in transactions.,
+Setting this Address Template as default as there is no other default,
+Setting up...,
+Settings,Beállítások
+Settings for Accounts,
+Settings for Buying Module,
+Settings for HR Module,
+Settings for Selling Module,
+"Settings to extract Job Applicants from a mailbox e.g. ""jobs@example.com""",
+Setup,Beállítások
+Setup Already Complete!!,
+Setup Complete,
+Setup SMS gateway settings,
+Setup Series,Sorszámozás beállítása
+Setup Wizard,
+Setup incoming server for jobs email id. (e.g. jobs@example.com),
+Setup incoming server for sales email id. (e.g. sales@example.com),
+Setup incoming server for support email id. (e.g. support@example.com),
+Share,Megosztás
+Share With,Megosztás
+Shareholders Funds,
+Shipments to customers.,Kiszállítás a vevő felé.
+Shipping,Szállítás
+Shipping Account,Szállítási számla
+Shipping Address,Szállítási cím
+Shipping Address Name,
+Shipping Amount,Szállítandó mennyiség
+Shipping Rule,Szállítási lehetőség
+Shipping Rule Condition,Szállítás feltételei
+Shipping Rule Conditions,Szállítás feltételei
+Shipping Rule Label,Szállítási lehetőség címkéi
+Shop,Bolt
+Shopping Cart,Bevásárló kosár
+Short biography for website and other publications.,
+Shortage Qty,
+"Show ""In Stock"" or ""Not in Stock"" based on stock available in this warehouse.",
+"Show / Hide features like Serial Nos, POS etc.",
+Show In Website,Weboldalon megjelenjen
+Show a slideshow at the top of the page,
+Show in Website,Weboldalon megjelenjen
+Show this slideshow at the top of the page,
+Show zero values,
+Shown in Website,
+Sick Leave,
+Signature,Aláírás
+Signature to be appended at the end of every email,
+Single,Egyedülálló
+Single unit of an Item.,Egy darab anyag.
+Sit tight while your system is being setup. This may take a few moments.,
+Slideshow,Diabemutató
+Soap & Detergent,
+Software,
+Software Developer,
+"Sorry, Serial Nos cannot be merged",
+"Sorry, companies cannot be merged",
+Source,Forrás
+Source File,
+Source Warehouse,Forrás raktár
+Source and target warehouse cannot be same for row {0},
+Source of Funds (Liabilities),
+Source warehouse is mandatory for row {0},
+Spartan,
+"Special Characters except ""-"" and ""/"" not allowed in naming series",
+Specification Details,Specifikáció adatai
+Specifications,
+Specify Exchange Rate to convert one currency into another,
+"Specify a list of Territories, for which, this Price List is valid",
+"Specify a list of Territories, for which, this Shipping Rule is valid",
+"Specify a list of Territories, for which, this Taxes Master is valid",
+Specify conditions to calculate shipping amount,
+"Specify the operations, operating cost and give a unique Operation no to your operations.",
+Split Delivery Note into packages.,
+Sports,
+Sr,
+Standard,
+Standard Buying,
+Standard Reports,Általános jelentések
+Standard Selling,
+"Standard Terms and Conditions that can be added to Sales and Purchases.
+
+Examples:
+
+1. Validity of the offer.
+1. Payment Terms (In Advance, On Credit, part advance etc).
+1. What is extra (or payable by the Customer).
+1. Safety / usage warning.
+1. Warranty if any.
+1. Returns Policy.
+1. Terms of shipping, if applicable.
+1. Ways of addressing disputes, indemnity, liability, etc.
+1. Address and Contact of your Company.",
+Standard contract terms for Sales or Purchase.,
+"Standard tax template that can be applied to all Purchase Transactions. This template can contain list of tax heads and also other expense heads like ""Shipping"", ""Insurance"", ""Handling"" etc.
+
+#### Note
+
+The tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.
+
+#### Description of Columns
+
+1. Calculation Type: 
+    - This can be on **Net Total** (that is the sum of basic amount).
+    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.
+    - **Actual** (as mentioned).
+2. Account Head: The Account ledger under which this tax will be booked
+3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.
+4. Description: Description of the tax (that will be printed in invoices / quotes).
+5. Rate: Tax rate.
+6. Amount: Tax amount.
+7. Total: Cumulative total to this point.
+8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).
+9. Consider Tax or Charge for: In this section you can specify if the tax / charge is only for valuation (not a part of total) or only for total (does not add value to the item) or for both.
+10. Add or Deduct: Whether you want to add or deduct the tax.",
+"Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.
+
+#### Note
+
+The tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.
+
+#### Description of Columns
+
+1. Calculation Type: 
+    - This can be on **Net Total** (that is the sum of basic amount).
+    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.
+    - **Actual** (as mentioned).
+2. Account Head: The Account ledger under which this tax will be booked
+3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.
+4. Description: Description of the tax (that will be printed in invoices / quotes).
+5. Rate: Tax rate.
+6. Amount: Tax amount.
+7. Total: Cumulative total to this point.
+8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).
+9. Is this Tax included in Basic Rate?: If you check this, it means that this tax will not be shown below the item table, but will be included in the Basic Rate in your main item table. This is useful where you want give a flat price (inclusive of all taxes) price to customers.",
+Start,
+Start Date,Kezdés dátuma
+Start POS,
+Start date of current invoice's period,
+Start date of current order's period,
+Start date should be less than end date for Item {0},
+State,Állapot
+Statement of Account,
+Static Parameters,
+Status,Állapot
+Status must be one of {0},
+Status of {0} {1} is now {2},
+Status updated to {0},
+Statutory info and other general information about your Supplier,
+Stay Updated,
+Stock,Készlet
+Stock Adjustment,
+Stock Adjustment Account,
+Stock Ageing,Készlet öregedés
+Stock Analytics,Készlet analítika
+Stock Assets,
+Stock Balance,Készlet egyenleg
+Stock Entries already created for Production Order ,
+Stock Entry,Készlet mozgás
+Stock Entry Detail,Készlet mozgás részletei
+Stock Expenses,
+Stock Frozen Upto,Készlet zárolása eddig
+Stock Item,
+Stock Ledger,Készlet könyvelés
+Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,
+Stock Ledger Entry,Készlet könyvelés tétele
+Stock Ledger entries balances updated,
+Stock Level,Készlet szint
+Stock Liabilities,
+Stock Projected Qty,
+Stock Queue (FIFO),
+Stock Received But Not Billed,
+Stock Reconcilation Data,
+Stock Reconcilation Template,
+Stock Reconciliation,Készlet egyeztetés
+"Stock Reconciliation can be used to update the stock on a particular date, usually as per physical inventory.",
+Stock Settings,Készlet beállítások
+Stock UOM,Készlet mértékegysége
+Stock UOM Replace Utility,Készlet mértékegység cserélő
+Stock UOM updatd for Item {0},
+Stock Uom,Készlet mértékegysége
+Stock Value,Készlet értéke
+Stock Value Difference,
+Stock balances updated,
+Stock cannot be updated against Delivery Note {0},
+Stock entries exist against warehouse {0} cannot re-assign or modify 'Master Name',
+Stock transactions before {0} are frozen,
+Stock: ,
+Stop,Megáll
+Stop Birthday Reminders,
+Stop users from making Leave Applications on following days.,
+Stopped,Megállítva
+Stopped order cannot be cancelled. Unstop to cancel.,
+Stores,
+Stub,
+Sub Assemblies,
+"Sub-currency. For e.g. ""Cent""",
+Subcontract,Alvállalkozói
+Subcontracted,
+Subject,Tárgy
+Submit Salary Slip,Bérlap küldés
+Submit all salary slips for the above selected criteria,
+Submit this Production Order for further processing.,
+Submitted,Elküldve
+Subsidiary,Leányvállalat
+Successful: ,
+Successfully Reconciled,
+Suggestions,Javaslatok
+Sunday,Vasárnap
+Supplier,Beszállító
+Supplier (Payable) Account,
+Supplier (vendor) name as entered in supplier master,
+Supplier > Supplier Type,
+Supplier Account,
+Supplier Account Head,
+Supplier Address,Beszállító címe
+Supplier Addresses and Contacts,
+Supplier Details,Beszállító részletei
+Supplier Id,
+Supplier Invoice Date,Beszállítói számla dátuma
+Supplier Invoice No,Beszállítói számla száma
+Supplier Name,Beszállító neve
+Supplier Naming By,
+Supplier Part Number,
+Supplier Quotation,Beszállítói ajánlat
+Supplier Quotation Item,Beszállítói ajánlat tétel
+Supplier Reference,Beszállító ajánlása
+Supplier Type,Beszállító típusa
+Supplier Type / Supplier,
+Supplier Type master.,
+Supplier Warehouse,Beszállító raktára
+Supplier Warehouse mandatory for sub-contracted Purchase Receipt,
+Supplier database.,
+Supplier master.,
+Supplier of Goods or Services.,
+Supplier warehouse where you have issued raw materials for sub - contracting,
+Supplier(s),
+Supplier-Wise Sales Analytics,
+Support,Támogatás
+Support Analtyics,
+Support Analytics,Támogatási analitika
+Support Email,Hibajegy levél
+Support Email Settings,Támogatás levelezés beállítása
+Support Manager,
+Support Password,
+Support Team,
+Support Ticket,Hibajegy
+Support queries from customers.,
+Symbol,Jel
+Sync Support Mails,
+Sync with Dropbox,
+Sync with Google Drive,
+System,Rendszer
+System Balance,
+System Manager,
+System Settings,Rendszer beállításai
+"System User (login) ID. If set, it will become default for all HR forms.",
+System for managing Backups,
+TDS (Advertisement),
+TDS (Commission),
+TDS (Contractor),
+TDS (Interest),
+TDS (Rent),
+TDS (Salary),
+Table for Item that will be shown in Web Site,
+Taken,
+Target,Cél
+Target  Amount,Cél összeg
+Target Detail,
+Target Details,
+Target Details1,
+Target Distribution,
+Target On,
+Target Qty,Cél menny.
+Target Warehouse,Cél raktár
+Target warehouse in row {0} must be same as Production Order,
+Target warehouse is mandatory for row {0},
+Task,Feladat
+Task Details,Feladat részletei
+Task Subject,
+Tasks,feladatok
+Tax,Adó
+Tax Amount After Discount Amount,
+Tax Assets,
+Tax Category can not be 'Valuation' or 'Valuation and Total' as all items are non-stock items,
+Tax Rate,Adó mértéke
+Tax and other salary deductions.,
+"Tax detail table fetched from item master as a string and stored in this field.
+Used for Taxes and Charges",
+Tax template for buying transactions.,
+Tax template for selling transactions.,
+Taxes,
+Taxes and Charges,Adók és költségek
+Taxes and Charges Added,Adók és költségek hozzáadása
+Taxes and Charges Added (Company Currency),
+Taxes and Charges Calculation,Adók és költségek számítása
+Taxes and Charges Deducted,Levont adók és költségek
+Taxes and Charges Deducted (Company Currency),
+Taxes and Charges Total,Adók és költségek összesen
+Taxes and Charges Total (Company Currency),
+Technology,
+Telecommunications,
+Telephone Expenses,
+Television,
+Template,
+Template for performance appraisals.,
+Template of terms or contract.,
+Temporary Accounts (Assets),
+Temporary Accounts (Liabilities),
+Temporary Assets,
+Temporary Liabilities,
+Term Details,ÁSZF részletek
+Terms,Feltétel
+Terms and Conditions,Általános szerződési feltételek
+Terms and Conditions Content,Általános szerződési feltételek tartalma
+Terms and Conditions Details,Általános szerződési feltételek részletei
+Terms and Conditions Template,Általános szerződési feltételek sablon
+Terms and Conditions1,
+Terretory,
+Territory,Terület
+Territory / Customer,
+Territory Manager,Területi menedzser
+Territory Name,Terület neve
+Territory Target Variance Item Group-Wise,
+Territory Targets,Terület célpontjai
+Test,Teszt
+Test Email Id,Teszt email azonosítója
+Test the Newsletter,Hírlevél tesztelése
+The BOM which will be replaced,"Az anyagjegyzék, ami le lesz cserélve mindenhol"
+The First User: You,
+"The Item that represents the Package. This Item must have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes""",
+The Organization,
+"The account head under Liability, in which Profit/Loss will be booked",
+The date on which next invoice will be generated. It is generated on submit.,
+"The date on which next invoice will be generated. It is generated on submit.
+",
+The date on which recurring invoice will be stop,
+The date on which recurring order will be stop,
+"The day of the month on which auto invoice will be generated e.g. 05, 28 etc",
+"The day of the month on which auto invoice will be generated e.g. 05, 28 etc ",
+"The day of the month on which auto order will be generated e.g. 05, 28 etc",
+"The day of the month on which auto order will be generated e.g. 05, 28 etc ",
+The day(s) on which you are applying for leave are holiday. You need not apply for leave.,
+The first Leave Approver in the list will be set as the default Leave Approver,
+The first user will become the System Manager (you can change that later).,
+The gross weight of the package. Usually net weight + packaging material weight. (for print),
+The name of your company for which you are setting up this system.,
+The net weight of this package. (calculated automatically as sum of net weight of items),
+The new BOM after replacement,"Az anyagjegyzék, amire le lesz cserélve mindenhol"
+The rate at which Bill Currency is converted into company's base currency,
+The selected item cannot have Batch,
+The unique id for tracking all recurring invoices. It is generated on submit.,
+The unique id for tracking all recurring invoices. It is generated on submit.,
+"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.",
+There are more holidays than working days this month.,
+"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""",
+There is not enough leave balance for Leave Type {0},
+There is nothing to edit.,
+There was an error. One probable reason could be that you haven't saved the form. Please contact support@erpnext.com if the problem persists.,
+There were errors.,
+There were no updates in the items selected for this digest.,
+This Currency is disabled. Enable to use in transactions,
+This Leave Application is pending approval. Only the Leave Apporver can update status.,
+This Time Log Batch has been billed.,Ez az Időnapló gyűjtő ki lett számlázva.
+This Time Log Batch has been cancelled.,Ez az Időnapló gyűjtő meg lett szakítva.
+This Time Log conflicts with {0},
+This format is used if country specific format is not found,
+This is a root account and cannot be edited.,
+This is a root customer group and cannot be edited.,
+This is a root item group and cannot be edited.,
+This is a root sales person and cannot be edited.,
+This is a root territory and cannot be edited.,
+This is an example website auto-generated from ERPNext,
+This is the number of the last created transaction with this prefix,
+This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.,
+This will be used for setting rule in HR module,
+Thread HTML,
+Thursday,Csütörtök
+Time Log,Időnapló
+Time Log Batch,Időnapló gyűjtő
+Time Log Batch Detail,Időnapló gyűjtő adatai
+Time Log Batch Details,Időnapló gyűjtő adatok
+Time Log Batch {0} must be 'Submitted',A {0} Időnapló gyűjtőt be kell 'Küldeni'
+Time Log Status must be Submitted.,
+Time Log for tasks.,A feladatok időnaplói.
+Time Log is not billable,
+Time Log {0} must be 'Submitted',
+Time Zone,Időzóna
+Time Zones,Időzónák
+Time and Budget,Idő és költség
+Time at which items were delivered from warehouse,
+Time at which materials were received,
+Title,Cím
+Titles for print templates e.g. Proforma Invoice.,
+To,eddig
+To Currency,
+To Date,Dátumig
+To Date should be same as From Date for Half Day leave,
+To Date should be within the Fiscal Year. Assuming To Date = {0},
+To Datetime,
+To Discuss,Megvitatni
+To Do List,Tennivalók listája
+To Package No.,
+To Produce,
+To Time,
+To Value,
+To Warehouse,Raktárba
+"To add child nodes, explore tree and click on the node under which you want to add more nodes.",
+"To assign this issue, use the ""Assign"" button in the sidebar.",
+To create a Bank Account,
+To create a Tax Account,
+"To create an Account Head under a different company, select the company and save customer.",
+To date cannot be before from date,
+To enable <b>Point of Sale</b> features,
+To enable <b>Point of Sale</b> view,
+To get Item Group in details table,
+"To include tax in row {0} in Item rate, taxes in rows {1} must also be included",
+"To merge, following properties must be same for both items",
+"To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.",
+"To set this Fiscal Year as Default, click on 'Set as Default'",
+To track any installation or commissioning related work after sales,
+"To track brand name in the following documents Delivery Note, Opportunity, Material Request, Item, Purchase Order, Purchase Voucher, Purchaser Receipt, Quotation, Sales Invoice, Sales BOM, Sales Order, Serial No",
+To track item in sales and purchase documents based on their serial nos. This is can also used to track warranty details of the product.,
+To track items in sales and purchase documents with batch nos<br><b>Preferred Industry: Chemicals etc</b>,
+To track items using barcode. You will be able to enter items in Delivery Note and Sales Invoice by scanning barcode of item.,
+Too many columns. Export the report and print it using a spreadsheet application.,
+Tools,Eszközök
+Total,Összesen
+Total ({0}),
+Total Absent,
+Total Achieved,
+Total Actual,
+Total Advance,
+Total Amount,Összesen
+Total Amount To Pay,
+Total Amount in Words,
+Total Billing This Year: ,
+Total Characters,
+Total Claimed Amount,
+Total Commission,
+Total Cost,Összköltség
+Total Credit,Követelés összesen
+Total Debit,Tartozás összesen
+Total Debit must be equal to Total Credit. The difference is {0},
+Total Deduction,
+Total Earning,
+Total Experience,
+Total Fixed Cost,
+Total Hours,
+Total Hours (Expected),Össz óraszám (becsült)
+Total Invoiced Amount,
+Total Leave Days,
+Total Leaves Allocated,Összes lekötött szabadság
+Total Message(s),
+Total Operating Cost,Teljes munkaköltség
+Total Order Considered,
+Total Order Value,
+Total Outgoing,
+Total Payment Amount,
+Total Points,Összes pont
+Total Present,
+Total Qty,
+Total Raw Material Cost,Teljes anyagköltség
+Total Revenue,
+Total Sanctioned Amount,
+Total Score (Out of 5),
+Total Target,
+Total Tax (Company Currency),
+Total Taxes and Charges,Összes adók és költségek
+Total Taxes and Charges (Company Currency),
+Total Variable Cost,
+Total Variance,
+"Total advance ({0}) against Order {1} cannot be greater \
+				than the Grand Total ({2})",
+Total allocated percentage for sales team should be 100,
+Total amount of invoices received from suppliers during the digest period,
+Total amount of invoices sent to the customer during the digest period,
+Total cannot be zero,
+Total in words,
+Total points for all goals should be 100. It is {0},
+Total valuation for manufactured or repacked item(s) can not be less than total valuation of raw materials,
+Total weightage assigned should be 100%. It is {0},
+Total(Amt),
+Total(Qty),
+Totals,
+Track Leads by Industry Type.,
+Track separate Income and Expense for product verticals or divisions.,
+Track this Delivery Note against any Project,
+Track this Sales Order against any Project,
+Transaction,Tranzakció
+Transaction Date,Ügylet dátuma
+Transaction not allowed against stopped Production Order {0},
+Transfer,
+Transfer Material,
+Transfer Raw Materials,Alapanyagok átrakása
+Transferred Qty,
+Transportation,
+Transporter Info,Fuvarozó adatai
+Transporter Name,Fuvarozó neve
+Transporter lorry number,Teherautó rendszáma
+Travel,
+Travel Expenses,
+Tree Type,
+Tree of Item Groups.,
+Tree of finanial Cost Centers.,
+Tree of finanial accounts.,
+Trial Balance,
+Tuesday,Kedd
+Type,Típus
+Type of document to rename.,
+"Type of leaves like casual, sick etc.",
+Types of Expense Claim.,
+Types of activities for Time Sheets,Az Időtáblában szereplő tevékenységek típusai
+"Types of employment (permanent, contract, intern etc.).",
+Tájékoztatásra vár,
+UOM Conversion Detail,Mértékegység konvertálásának részlete
+UOM Conversion Details,Mértékegység konvertálásának részletei
+UOM Conversion Factor,
+UOM Conversion factor is required in row {0},
+UOM Name,Mértékegység neve
+UOM coversion factor required for UOM: {0} in Item: {1},
+Under AMC,ÉKSz időn belül
+Under Graduate,
+Under Warranty,Garanciaidőn belül
+Unit,
+Unit of Measure,Mértékegység
+Unit of Measure {0} has been entered more than once in Conversion Factor Table,
+"Unit of measurement of this item (e.g. Kg, Unit, No, Pair).",
+Units/Hour,Egység/óra
+Units/Shifts,Egység/műszak
+Unpaid,Fizetetlen
+Unreconciled Payment Details,
+Unscheduled,Nem tervezett
+Unsecured Loans,
+Unstop,
+Unstop Material Request,
+Unstop Purchase Order,
+Unsubscribed,
+Upcoming Calendar Events (max 10),
+Update,Frissítés
+Update Clearance Date,
+Update Cost,Költségek újraszámolása
+Update Finished Goods,Késztermék frissítés
+Update Series,Sorszámozás frissítése
+Update Series Number,Sorszám frissítése
+Update Stock,Készlet frissítése
+Update additional costs to calculate landed cost of items,
+Update bank payment dates with journals.,
+Update clearance date of Journal Entries marked as 'Bank Vouchers',
+Updated,Frissítve
+Updated Birthday Reminders,
+Upload Attendance,
+Upload Backups to Dropbox,Mentés feltöltése a Dropboxba
+Upload Backups to Google Drive,Mentés feltöltése a Google Driveba
+Upload HTML,HTML feltöltése
+Upload a .csv file with two columns: the old name and the new name. Max 500 rows.,Tölts fel egy .CSV fájlt két oszloppal: a régi névvel és az új névvel. Max. 500 sor lehet.
+Upload attendance from a .csv file,
+Upload stock balance via csv.,
+Upload your letter head and logo - you can edit them later.,
+Upper Income,
+Urgent,Sürgős
+Use Multi-Level BOM,Többszintű anyagjegyzék használata
+Use SSL,
+Used for Production Plan,
+User,Felhasználó
+User ID,
+User ID not set for Employee {0},
+User Name,Felhasználó neve
+User Name or Support Password missing. Please enter and try again.,
+User Remark,Felhasználói megjegyzés
+User Remark will be added to Auto Remark,
+User Specific,
+User must always select,
+User {0} is already assigned to Employee {1},
+User {0} is disabled,A(z) {0} felhasználó tiltva
+Username,Felhasználó neve
+Users who can approve a specific employee's leave applications,
+Users with this role are allowed to create / modify accounting entry before frozen date,
+Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts,
+Utilities,Segédletek
+Utility Expenses,
+Valid For Territories,
+Valid From,Érvényes innentől
+Valid Upto,Érvényes eddig
+Valid for Territories,
+Validate,
+Valuation,
+Valuation Method,Készletérték számítása
+Valuation Rate,Becsült érték
+Valuation Rate required for Item {0},
+Valuation and Total,
+Value,Érték
+Value or Qty,
+Variance,
+Vehicle Dispatch Date,A jármű útnak indításának ideje
+Vehicle No,
+Venture Capital,
+Verified By,Ellenőrizte
+View Details,Részletek
+View Ledger,
+View Now,
+Visit report for maintenance call.,
+Voucher #,
+Voucher Detail No,
+Voucher Detail Number,
+Voucher ID,
+Voucher No,
+Voucher Type,Bizonylat típusa
+Voucher Type and Date,Bizonylat típusa és dátuma
+Walk In,Utcáról
+Warehouse,Raktár
+Warehouse Contact Info,Raktári Kapcsolattartó
+Warehouse Detail,Raktár részletek
+Warehouse Name,Raktár neve
+Warehouse and Reference,
+Warehouse can not be deleted as stock ledger entry exists for this warehouse.,
+Warehouse can only be changed via Stock Entry / Delivery Note / Purchase Receipt,
+Warehouse cannot be changed for Serial No.,A sorozatszámhoz tartozó raktárat nem lehet megváltoztatni.
+Warehouse is mandatory for stock Item {0} in row {1},
+Warehouse not found in the system,
+Warehouse required for stock Item {0},
+Warehouse where you are maintaining stock of rejected items,
+Warehouse {0} can not be deleted as quantity exists for Item {1},
+Warehouse {0} does not belong to company {1},
+Warehouse {0} does not exist,
+Warehouse {0}: Company is mandatory,
+Warehouse {0}: Parent account {1} does not bolong to the company {2},
+Warehouse-wise Item Reorder,Raktárankénti újrarendelés
+Warehouses,Raktárak
+Warehouses.,
+Warn,Figyelmeztet
+Warning: Leave application contains following block dates,
+Warning: Material Requested Qty is less than Minimum Order Qty,
+Warning: Sales Order {0} already exists against same Purchase Order number,
+Warning: System will not check overbilling since amount for Item {0} in {1} is zero,
+Warranty / AMC Details,Garancia és éves karbantartási szerződés részletei
+Warranty / AMC Status,Garancia és éves karbantartási szerződés állapota
+Warranty Expiry Date,Garancia lejárati dátuma
+Warranty Period (Days),Garancia hossza (napokban)
+Warranty Period (in days),Garancia hossza (napokban)
+We buy this Item,
+We sell this Item,
+Website,Webhely
+Website Description,Webhely leírása
+Website Item Group,
+Website Item Groups,
+Website Manager,
+Website Settings,Webhely beállításai
+Website Warehouse,Webhely raktár
+Wednesday,Szerda
+Weekly,Heti
+Weekly Off,
+Weight UOM,Súly mértékegysége
+"Weight is mentioned,\nPlease mention ""Weight UOM"" too",
+Weightage,Súlyozás
+Weightage (%),
+Welcome,Üdv
+Welcome to ERPNext. Over the next few minutes we will help you setup your ERPNext account. Try and fill in as much information as you have even if it takes a bit longer. It will save you a lot of time later. Good Luck!,"Üdvözöl az ERPNext. A következő néhány percben beállítjuk az ERPNext fiókját. Minél több mezőt tölt ki most, később annál könnyebb lesz a munka. Sok sikert!"
+Welcome to ERPNext. Please select your language to begin the Setup Wizard.,
+What does it do?,
+"When any of the checked transactions are ""Submitted"", an email pop-up automatically opened to send an email to the associated ""Contact"" in that transaction, with the transaction as an attachment. The user may or may not send the email.",
+"When submitted, the system creates difference entries to set the given stock and valuation on this date.",
+Where items are stored.,Ahol az anyagok tárolva vannak.
+Where manufacturing operations are carried out.,Ahol a gyártási műveleteket végzik.
+Widowed,Özvegy
+Will be calculated automatically when you enter the details,
+Will be updated after Sales Invoice is Submitted.,
+Will be updated when batched.,
+Will be updated when billed.,
+Wire Transfer,
+With Operations,Műveletek is
+Work Details,
+Work Done,Kész a munka
+Work In Progress,Dolgozunk rajta
+Work-in-Progress Warehouse,Feldolgozás alatt álló anyag raktára
+Work-in-Progress Warehouse is required before Submit,
+Workflow State,Munkafolyamat állapot
+Working,Folyamatban
+Working Days,
+Workstation,Munkaállomás
+Workstation Name,Munkaállomás neve
+Write Off Account,
+Write Off Amount,
+Write Off Amount <=,
+Write Off Based On,
+Write Off Cost Center,
+Write Off Outstanding Amount,
+Write Off Voucher,Leíró bizonylat
+Wrong Template: Unable to find head row.,
+Year,Év
+Year Closed,Év lezárva
+Year End Date,
+Year Name,Év neve
+Year Start Date,
+Year of Passing,
+Yearly,Éves
+Yes,Igen
+You are not authorized to add or update entries before {0},
+You are not authorized to set Frozen value,
+You are the Expense Approver for this record. Please Update the 'Status' and Save,
+You are the Leave Approver for this record. Please Update the 'Status' and Save,
+You can enter any date manually,
+You can enter the minimum quantity of this item to be ordered.,
+You can not change rate if BOM mentioned agianst any item,
+You can not enter both Delivery Note No and Sales Invoice No. Please enter any one.,
+You can not enter current voucher in 'Against Journal Voucher' column,
+You can set Default Bank Account in Company master,
+You can start by selecting backup frequency and granting access for sync,
+You can submit this Stock Reconciliation.,
+You can update either Quantity or Valuation Rate or both.,
+You cannot credit and debit same account at the same time,Egy bejegyzésben nem lehet egyszerre tartozás és követelés is.
+You have entered duplicate items. Please rectify and try again.,
+You may need to update: {0},
+You must Save the form before proceeding,
+Your Customer's TAX registration numbers (if applicable) or any general information,
+Your Customers,
+Your Login Id,
+Your Products or Services,
+Your Suppliers,
+Your email address,Saját email cím
+Your financial year begins on,
+Your financial year ends on,
+Your sales person who will contact the customer in future,
+Your sales person will get a reminder on this date to contact the customer,
+Your setup is complete. Refreshing...,A telepítésnek vége. Frissítés...
+Your support email id - must be a valid email - this is where your emails will come!,
+[Error],[Hiba]
+[Select],[Válasszon]
+`Freeze Stocks Older Than` should be smaller than %d days.,
+and,és
+are not allowed.,
+assigned by,Felelőssé tette
+cannot be greater than 100,
+disabled user,
+"e.g. ""Build tools for builders""",
+"e.g. ""MC""",
+"e.g. ""My Company LLC""",
+e.g. 5,
+"e.g. Bank, Cash, Credit Card",
+"e.g. Kg, Unit, Nos, m",
+e.g. VAT,
+eg. Cheque Number,
+example: Next Day Shipping,például: Következő napi szállítás
+fold,
+hidden,Rejtett
+hours,
+lft,
+old_parent,
+project,Projekt
+rgt,
+to,eddig
+website page link,
+{0} '{1}' not in Fiscal Year {2},
+{0} ({1}) must have role 'Expense Approver',
+{0} ({1}) must have role 'Leave Approver',
+{0} Credit limit {1} crossed,
+{0} Recipients,
+{0} Serial Numbers required for Item {0}. Only {0} provided.,
+{0} Tree,
+{0} against Purchase Order {1},
+{0} against Sales Invoice {1},
+{0} against Sales Order {1},
+{0} budget for Account {1} against Cost Center {2} will exceed by {3},
+{0} can not be negative,
+{0} created,{0} létrehozva
+{0} days from {1},
+{0} does not belong to Company {1},
+{0} entered twice in Item Tax,
+"{0} is an invalid email address in 'Notification \
+					Email Address'",
+{0} is mandatory,
+{0} is mandatory for Item {1},
+{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}.,
+{0} is not a stock Item,
+{0} is not a valid Batch Number for Item {1},
+{0} is not a valid Leave Approver. Removing row #{1}.,
+{0} is not a valid email id,
+{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,
+{0} is required,
+{0} must be a Purchased or Sub-Contracted Item in row {1},
+{0} must be reduced by {1} or you should increase overflow tolerance,
+{0} valid serial nos for Item {1},
+{0} {1} against Bill {2} dated {3},
+{0} {1} has already been submitted,{0} {1} már elküldve.
+{0} {1} has been modified. Please refresh.,
+{0} {1} is fully billed,
+{0} {1} is not submitted,{0} {1} nincs elküldve
+{0} {1} is stopped,
+{0} {1} must be submitted,
+{0} {1} not in any Fiscal Year,
+{0} {1} status is 'Stopped',
+{0} {1} status is Stopped,
+{0} {1} status is Unstopped,
+{0} {1}: Cost Center is mandatory for Item {2},
+{0}: {1} not found in Invoice Details table,

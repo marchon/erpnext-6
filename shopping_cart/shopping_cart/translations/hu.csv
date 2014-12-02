@@ -1,0 +1,48 @@
+"<a href=""#Sales Browser/Customer Group"">Add / Edit</a>","""<a href=""""#Sales Browser/Customer Group"""">Új / Szerkesztés</a>"""
+"<a href=""#Sales Browser/Territory"">Add / Edit</a>","""<a href=""""""""#Sales Browser/Territory"""""""">Új / Szerkesztés</a>"""
+Billed,
+Company,Cég
+Currency is required for Price List {0},
+Default Customer Group,
+Default Territory,Alapértelmezett terület
+Default settings for Shopping Cart,
+Delivered,Kiszállítva
+Enable Shopping Cart,Bevásárló kosár engedélyezése
+Go ahead and add something to your cart.,
+Hey! Go ahead and add an address,
+Invalid Billing Address,
+Invalid Shipping Address,
+Missing Currency Exchange Rates for {0},
+Name is required,
+Not Allowed,
+Paid,
+Partially Billed,Részben számlázva
+Partially Delivered,Részben kiszállítva
+Please specify a Price List which is valid for Territory,
+Please specify currency in Company,
+Please write something,
+Please write something in subject and message!,
+Price List,Árlista
+Price List not configured.,
+Quotation Series,
+Shipping Rule,Szállítási lehetőség
+Shopping Cart,Bevásárló kosár
+Shopping Cart Price List,Bevásárló kosár árlista
+Shopping Cart Price Lists,
+Shopping Cart Settings,Bevásárló kosár beállítások
+Shopping Cart Shipping Rule,
+Shopping Cart Shipping Rules,
+Shopping Cart Taxes and Charges Master,
+Shopping Cart Taxes and Charges Masters,
+Something went wrong!,
+Something went wrong.,
+Tax Master,
+To Pay,Fizetni
+Updated,Frissítve
+Website Manager,
+You are not allowed to reply to this ticket.,
+You need to be logged in to view your cart.,
+You need to enable Shopping Cart,
+{0} cannot be purchased using Shopping Cart,
+{0} is required,
+{0} {1} has a common territory {2},

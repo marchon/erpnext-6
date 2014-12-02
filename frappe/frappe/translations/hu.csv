@@ -1,0 +1,1687 @@
+ by Role ,
+ for {0},
+ is not set,
+"""Company History""","""""""Cégtörténet"""""""
+"""Parent"" signifies the parent table in which this row must be added",
+"""Team Members"" or ""Management""","""""""Szervezeti felépítés"""" vagy """"Vezetőség"""""""
+'In List View' not allowed for type {0} in row {1},
+0 - Draft; 1 - Submitted; 2 - Cancelled,"""0 - Vázlat; 1 - Elküldve; 2 - Törölve"""
+0 is highest,0 a legnagyobb
+"000 is black, fff is white","a 000 fekete, az fff fehér"
+2 days ago,2 nappal ezelőtt
+"<a href=""https://en.wikipedia.org/wiki/Transport_Layer_Security"" target=""_blank"">[?]</a>",
+"<a onclick=""msgprint('<ol>\
+<li><b>field:[fieldname]</b> - By Field\
+<li><b>naming_series:</b> - By Naming Series (field called naming_series must be present\
+<li><b>Prompt</b> - Prompt user for a name\
+<li><b>[series]</b> - Series by prefix (separated by a dot); for example PRE.#####\
+</ol>')"">Naming Options</a>",
+<b>new</b> <i>type of document</i>,<b>new</b> <i>dokumentum típusa</i>
+"<i>document type...</i>, e.g. <b>customer</b>","<i>dokumentum típusa...</i>, pl. <b>vevő</b>"
+<i>e.g. <strong>(55 + 434) / 4</strong> or <strong>=Math.sin(Math.PI/2)</strong>...</i>,<i>pl. <strong>(55 + 434) / 4</strong> vagy <strong>=Math.sin(Math.PI/2)</strong>...</i>
+<i>module name...</i>,<i>modul neve...</i>
+<i>text</i> <b>in</b> <i>document type</i>,<i>szöveg</i> <b>in</b> <i>dokumentum típusa</i>
+A new account has been created for you,
+"A new task, %s, has been assigned to you by %s. %s",
+A user can be permitted to multiple records of the same DocType.,
+About,Névjegy
+About Us Settings,Névjegy beállítások
+About Us Team Member,
+Action,Művelet
+Actions,
+"Actions for workflow (e.g. Approve, Cancel).",
+Add,Hozzáadás
+Add A New Rule,Új Szabály
+Add A User Permission,Új felhasználói jogosultság
+Add Attachments,Mellékletek hozzáadása
+Add Bookmark,Könyvjelző hozzáadása
+Add CSS,Új CSS
+Add Column,Új Oszlop
+Add Filter,Szűrő hozzáadása
+Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,
+Add Message,Új üzenet
+Add New Permission Rule,Új hozzáférési szabály
+Add New User Permission,
+Add Reply,Válaszolás
+Add Tag,
+Add Total Row,Összesítő sor hozzáadása
+Add a New Role,
+Add a banner to the site. (small banners are usually good),
+Add all roles,Minden Beosztás
+Add attachment,Melléklet hozzáadása
+Add code as &lt;script&gt;,
+Add comment,
+Add custom javascript to forms.,
+Add fields to forms.,
+Add multiple rows,
+Add new row,Új sor
+"Add the name of <a href=""http://google.com/webfonts"" target=""_blank"">Google Web Font</a> e.g. ""Open Sans""",
+Add to To Do,Új tennivaló
+Add to To Do List Of,
+Added {0},Hozzáadva: {0}
+Added {0} ({1}),
+Adding System Manager to this User as there must be atleast one System Manager,
+Additional Info,További infó
+Additional Permissions,
+"Additional filters based on User Permissions, having:",
+Address,Cím
+Address Line 1,1. cím sor
+Address Line 2,2. cím sor
+Address Title,Cím címe
+Address and other legal information you may want to put in the footer.,
+Adds a custom field to a DocType,
+Adds a custom script (client or server) to a DocType,
+Admin,
+Administrator,
+Advanced,
+Align Left (Ctrl/Cmd+L),
+All,
+All Applications,Minden alkalmazás
+All Day,Minden nap
+All Tables (Main + Child Tables),
+All customizations will be removed. Please confirm.,
+"All possible Workflow States and roles of the workflow. <br>Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""",
+Allow Comments,
+Allow Delete,
+Allow Edit,
+Allow Import,Importálás engedélyezése
+Allow Import via Data Import Tool,
+Allow Multiple,
+Allow Rename,
+Allow field to remain editable even after submission,
+Allow on Submit,
+Allow user to login only after this hour (0-24),
+Allow user to login only before this hour (0-24),
+Allowed,Jóváhagyva
+"Allowing DocType, DocType. Be careful!",
+Already Registered,
+Already in user's To Do list,
+Already saving. Please wait a few moments.,
+Alternative download link,
+"Alternatively, you can also specify 'auto_email_id' in site_config.json",
+Always use above Login Id as sender,
+Amend,
+"An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [<a href=""http://favicon-generator.org/"" target=""_blank"">favicon-generator.org</a>]",
+"Another {0} with name {1} exists, select another name",
+Any existing permission will be deleted / overwritten.,
+Anyone Can Read,
+Anyone Can Write,
+"Apart from Role based Permission Rules, you can apply User Permissions based on DocTypes.",
+"Apart from System Manager, roles with 'Set User Permissions' right can set permissions for other users for that Document Type.",
+App Name,
+App not found,
+Application Installer,Alkalmazás telepítő
+Applications,Alkalmazások
+Apply Style,
+Apply User Permissions,
+Apply User Permissions of these Document Types,
+Are you sure you want to delete the attachment?,
+Arial,
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.",
+Ascending,Növekvő
+Assign To,Felelős legyen
+Assign a permission level to the field.,
+Assigned By,Felelőssé tette
+Assigned To,Felelős érte
+Assigned To Fullname,
+Assigned To Me,
+Assigned To/Owner,
+Assigned to {0},
+Assignment Complete,
+Assignment Status Changed,Hozzárendelt állapot megváltozott
+Assignments,Felelősségek
+Attach,Csatolás
+Attach .csv file to import data,
+Attach Document Print,
+Attach as web link,
+Attached To DocType,
+Attached To Name,
+Attachments,Mellékletek
+Auto Email Id,
+Auto Name,
+Auto generated,
+Avatar,
+Background Color,Háttérszín
+Background Image,Háttérkép
+Background Style,Háttérkép elrendezése
+Banner,
+Banner HTML,
+Banner Image,
+Banner is above the Top Menu Bar.,
+Begin this page with a slideshow of images,
+Beginning with,
+Belongs to,
+Bio,Életrajz
+Birth Date,Születési dátum
+Blog Category,Blog kategória
+Blog Intro,
+Blog Introduction,
+Blog Post,Blog bejegyzés
+Blog Settings,Blog beállítások
+Blog Title,
+Blogger,
+Bold (Ctrl/Cmd+B),
+Bookmarks,Könyvjelzők
+Both login and password required,
+Brand HTML,
+Breadcrumbs,
+Bulk Email,Tömeges email
+Bulk Email records.,
+Bulk email limit {0} crossed,
+Bullet list,
+Button,Gomb
+By,
+Cache Cleared,
+Calculate,Számolás
+Calendar,Naptár
+Can not edit Read Only fields,
+Cancel,Mégsem
+Cancelled,Törölve
+"Cannot Edit {0} directly: To edit {0} properties, create / update {1}, {2} and {3}",
+Cannot Update: Incorrect / Expired Link.,
+Cannot Update: Incorrect Password,Nem frissíthető: Hibás jelszó
+Cannot add more than 50 comments,
+Cannot cancel before submitting. See Transition {0},
+Cannot change picture,A kép nem változtatható meg
+Cannot change state of Cancelled Document. Transition row {0},
+Cannot change {0},
+Cannot delete or cancel because {0} {1} is linked with {2} {3},
+Cannot delete {0} as it has child nodes,
+Cannot edit standard fields,
+Cannot edit templated page,
+Cannot link cancelled document: {0},
+Cannot map because following condition fails: ,
+Cannot open instance when its {0} is open,
+Cannot open {0} when its instance is open,
+Cannot print cancelled documents,
+Cannot remove permission for DocType: {0} and Name: {1},
+Cannot reply to a reply,
+Cannot set Email Alert on Document Type {0},
+Cannot set permission for DocType: {0} and Name: {1},
+Categorize blog posts.,
+Category,Kategória
+Category Name,Kategória neve
+Center,
+Center (Ctrl/Cmd+E),
+"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.",
+"Change field properties (hide, readonly, permission etc.)",
+"Change type of field. (Currently, Type change is \
+						allowed among 'Currency and Float')",
+Chat,Csevegés
+Check,
+Check / Uncheck roles assigned to the User. Click on the Role to find out what permissions that Role has.,
+Check this if you want to send emails as this id only (in case of restriction by your email provider).,
+Check this to make this the default letter head in all prints,
+Check which Documents are readable by a User,
+Checked items shown on desktop,A bejelölt tételek jelennek meg az Asztalon
+Child Tables,
+Child Tables are shown as a Grid in other DocTypes.,
+City,Város
+Classic,Klasszikus
+Clear Cache,Cache ürítése
+Clear all roles,Egyik Beosztás sem
+Click on File -&gt; Save As,
+Click on Save,
+Click on row to view / edit.,Szerkesztéshez / megnézéshez kattintás a soron.
+Click on the link below to complete your registration and set a new password,
+Client,Ügyfél
+Client-side formats are now deprecated,
+Close,Bezárás
+Close: {0},Bezár: {0}
+Closed,Lezárva
+Code,
+Collapse,Összecsuk
+Column Break,
+Column Labels:,
+Column Name,
+Comment,Megjegyzés
+Comment By,Megjegyezte
+Comment By Fullname,
+Comment Date,Megjegyzés dátuma
+Comment Docname,
+Comment Doctype,
+Comment Time,Megjegyzés ideje
+Comment Type,
+Comments,Megjegyzések
+Communication,Kommunikáció
+Communication Medium,Kommunikációs csatorna
+Company History,Cégtörténet
+Company Introduction,Cég bemutatása
+Complaint,Panasz
+Complete By,Befejezte
+Complete Registration,
+Completed,Befejezve
+Condition,
+Confirm,
+Contact Us Settings,Kapcsolat beállítások
+"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.",
+Content,Tartalom
+Content Hash,
+Content in markdown format that appears on the main side of your page,
+Content web page.,
+Copy,Másolás
+Copyright,
+Core,Alap dolgok
+Could not connect to outgoing email server,
+Could not find {0},
+Count,
+Country,Ország
+Create,Létrehozás
+Create a new {0},
+Created,
+Created By,Létrehozta
+Created Custom Field {0} in {1},
+Created Customer Issue,Létrehozott vevői probléma
+Created On,
+Created Opportunity,Létrehozott lehetőség
+Created Support Ticket,Létrehozott hibajegy
+Creation / Modified By,Készítette / módosította
+Currency,Pénznem
+Current status,Jelenlegi állapot
+Custom CSS,Egyedi CSS
+Custom Field,Egyedi mező
+Custom Javascript,
+Custom Reports,Egyedi jelentések
+Custom Script,Egyedi szkript
+Custom?,Egyedi
+Customize,Testreszabás
+Customize Form,Űrlap testreszabása
+Customize Form Field,Űrlap mezőjének testreszabása
+"Customize Label, Print Hide, Default etc.","Felirat, nyomtatási mezők, alapértelmezett értékek, stb. testreszabása"
+Customized HTML Templates for printing transctions.,
+Daily Event Digest is sent for Calendar Events where reminders are set.,"A napi eseményekről emlékeztetőt küld a Naptár, ha be van állítva az eseménynél."
+Danger,Veszély
+Data,Adat
+Data Import / Export Tool,Adatok importálása / exportálása
+Data Import Template,
+Data Import Tool,
+Data missing in table,Hiányzik az adat a táblából
+Date,Dátum
+Date Change,
+Date Changed,
+Date Format,Dátum formátum
+Date and Number Format,Dátum és szám formátum
+Date must be in format: {0},
+Datetime,
+Days in Advance,
+Dear,Kedves
+Default,Alapértelmezett
+Default Print Format,Alapértelmezett nyomtatási formátum
+Default Value,Alapértelmezett érték
+Default for 'Check' type of field must be either '0' or '1',
+Default is system timezone,A rendszer időzónája az alapértelmezett
+"Default: ""Contact Us""",
+DefaultValue,
+Defaults,
+"Define read, write, admin permissions for a Website Page.",
+Define workflows for forms.,
+Defines actions on states and the next step and allowed roles.,
+Defines workflow states and rules for a document.,
+Delete,Törlés
+Delete Row,Sor törlése
+Depends On,
+Descending,Csökkenő
+Description,Leírás
+Description and Status,Leírás és állapot
+"Description for listing page, in plain text, only a couple of lines. (max 140 characters)",
+Description for page header.,
+Desktop,Munkaasztal
+Details,Részletek
+Dialog box to select a Link Value,
+Did not add,Nem adja hozzá
+Did not cancel,
+Did not find {0} for {0} ({1}),
+Did not load,
+Did not remove,
+Did not save,Nincs mentés
+Did not set,
+"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.",
+Disable Customer Signup link in Login page,
+Disable Report,
+Disable Signup,
+Disabled,Tiltva
+Display,Képernyő
+Display Settings,Képernyő beállításai
+Display in the sidebar of this Website Route node,
+Do not allow user to change after set the first time,
+Doc Status,Doku állapota
+DocField,
+DocPerm,
+DocType,
+DocType Details,
+DocType can not be merged,
+DocType is a Table / Form in the application.,
+DocType on which this Workflow is applicable.,
+DocType or Field,
+Doclist JSON,
+Docname,
+Document,Dokumentum
+Document Status,Dokumentum állapota
+Document Status transition from ,
+Document Status transition from {0} to {1} is not allowed,
+Document Type,Dokumentum típusa
+Document Types,
+Document is only editable by users of role,Csak az ilyen beosztású személy szerkesztheti:
+Documentation,Dokumentáció
+Documents,Dokumentumok
+Download,letöltés
+Download Backup,Mentés letöltése
+Download Template,Sablon letöltése
+Download a template for importing a table.,
+Download link for your backup will be emailed on the following email address:,
+Download with data,Letöltés adatokkal együtt
+Drag to sort columns,
+Due Date,Határidő
+Duplicate name {0} {1},
+Dynamic Link,
+Edit,Szerkesztés
+Edit Filter,
+Edit Permissions,
+Edit Role Permissions,
+Edit your record,
+Editable,Szerkeszthető
+Editing Row,
+Email,
+Email Alert,Email riasztás
+Email Alert Recipient,Email riasztás címzettje
+Email Alert Recipients,Email riasztás címzettjei
+Email By Document Field,
+Email Footer,Email lábléc
+Email Host,
+Email Login,
+Email Password,Levelezési jelszó
+Email Sent,Email elküldve
+Email Settings,Email beállítások
+Email Settings for Outgoing and Incoming Emails.,
+Email Signature,Email aláírás
+Email Use SSL,SSL használata az emailhez
+"Email addresses, separted by commas","Email címek, vesszővel elválasztva"
+Email not verified with {1},
+Email sent to {0},
+Email...,Email cím
+Emails are muted,
+Embed image slideshows in website pages.,
+Enable,
+Enable Comments,
+Enable Report,
+Enable Scheduled Jobs,
+Enabled,Engedélyezve
+Ends on,Véget ér
+Enter Form Type,Űrlap típusa
+Enter Value,
+Enter at least one permission row,
+"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to <a href=""#Form/Customize Form/Customize Form"">Customize Form</a>.",
+"Enter keys to enable login via Facebook, Google, GitHub.",
+Equals,egyenlő
+Error,Hiba
+"Error generating PDF, attachment sent as HTML",
+Error: Document has been modified after you have opened it,
+Event,Esemény
+Event Datetime,
+Event Individuals,Egyének szerint
+Event Role,Beosztás szerint
+Event Roles,Beosztások szerint
+Event Type,Esemény típusa
+Event User,
+Event end must be after start,
+Events,
+Events In Today's Calendar,Mai napi események a Naptárban
+Every Day,Minden nap
+Every Month,Minden hónapban
+Every Week,Minden héten
+Every Year,Minden évben
+Every day events should finish on the same day.,
+Everyone,Mindenki
+Example,
+Example:,Például:
+Expand,Kibont
+Export,
+Export all rows in CSV fields for re-upload. This is ideal for bulk-editing.,
+Export not allowed. You need {0} role to export.,
+Exported,
+"Expression, Optional",
+Facebook,
+Facebook Client ID,
+Facebook Client Secret,
+Facebook Share,Facebook megosztás
+Facebook User ID,Facebook nyilvános felhasználónév
+Facebook Username,Facebook felhasználói név
+FavIcon,
+Female,Nő
+Field Description,Mező leírása
+Field Name,Mező neve
+Field Type,Mező típusa
+"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)",
+Field {0} in row {1} cannot be hidden and mandatory without default,
+Field {0} is not selectable.,
+Field {0} of type {1} cannot be mandatory,
+Fieldname,Mezőnév
+Fieldname is required in row {0},
+Fieldname not set for Custom Field,
+Fieldname which will be the DocType for this link field.,
+Fieldname {0} appears multiple times in rows {1},
+"Fieldname {0} cannot contain letters, numbers or spaces","A(z) {0} mezőnév nem tartalmazhat betűt, számot vagy szóközt"
+Fields,Mezők
+"Fields separated by comma (,) will be included in the<br /><b>Search By</b> list of Search dialog box",
+Fieldtype,
+Fieldtype cannot be changed from {0} to {1} in row {2},
+File,Fájl
+File Data,Fájlok
+File Name,Fájl neve
+"File Name: &lt;your filename&gt;.csv<br />\
+						Save as type: Text Documents (*.txt)<br />\
+						Encoding: UTF-8",
+File Size,Fájl mérete
+File URL,Fájl URL-je
+File not attached,
+File size exceeded the maximum allowed size of {0} MB,
+Fill Screen,Kitöltés
+Filter,Szűrő
+Filter records based on User Permissions defined for a user,
+Filters,
+Find {0} in {1},
+First Name,Vezetéknév
+First data column must be blank.,
+Float,Lebegőpontos
+Float Precision,Lebegőpontos szám pontossága
+Fold,
+Fold can not be at the end of the form,
+Fold must come before a labelled Section Break,
+Font (Heading),
+Font (Text),Betűtípus (szöveg)
+Font Size,Betűméret
+Font Size (Text),Betűméret (szöveg)
+Fonts,Betűtípusok
+Footer,Lábléc
+Footer Background,
+Footer Items,
+Footer Text,
+For DocType,
+"For Links, enter the DocType as range
+For Select, enter list of Options separated by comma",
+"For comparative filters, start with",
+For example if you cancel and amend 'INV004' it will become a new document 'INV004-1'. This helps you to keep track of each amendment.,
+For ranges,
+For top bar,
+"For updating, you can update only selective columns.",
+For {0} at level {1} in {2} in row {3},
+Form,Űrlap
+Forum,
+Forums,Fórumok
+Forward To Email Address,Továbbítás emailcímekre
+Frappe Framework,
+Friday,Péntek
+From Date must be before To Date,
+Full Name,Teljes név
+Gantt Chart,Gantt diagram
+Gender,Neme
+Georgia,
+Get,Átmásolás
+Get From ,
+"Get your globally recognized avatar from <a href=""https://gravatar.com/"">Gravatar.com</a>",
+GitHub,
+GitHub Client ID,
+GitHub Client Secret,
+Github User ID,Github nyilvános felhasználónév
+Github Username,Github felhasználói név
+Go to this url after completing the form.,
+Google,
+Google Analytics ID,
+Google Client ID,
+Google Client Secret,
+Google Plus One,
+Google User ID,Google nyilvános felhasználónév
+Google Web Font (Heading),
+Google Web Font (Text),Google Web Betűtípus (szöveg)
+"Group Added, refreshing...",
+Group Description,
+Group Name,
+Group Title,
+Group Type,
+Groups,Csoportok
+Guest,
+HTML for header section. Optional,
+Header,Fejléc
+Heading,Fejszöveg
+Heading Text As,
+Help,Súgó
+Help on Search,Segítség a kereséshez
+Help: Field Properties,
+Help: Importing non-English data in Microsoft Excel,
+Helvetica Neue,
+Hidden,Rejtett
+Hide Actions,Műveletek elrejtése
+Hide Copy,Rejtett másolat
+Hide Details,Részletek elrejtése
+Hide Heading,Fejszöveg elrejtése
+Hide Toolbar,Eszköztár elrejtése
+Hide field in Report Builder,
+Hide field in Standard Print Format,
+Hide field in form,
+Hide the sidebar,
+High,Magas
+Highlight,Fontos események
+History,Előzmények
+Home Page,Kezdőlap
+Home Page is Products,
+Horizontal Line Break,
+ID (name) of the entity whose property is to be set,
+ID field is required to edit values using Report. Please select the ID field using the Column Picker,
+Icon,Ikon
+Icon will appear on the button,
+"If a Role does not have access at Level 0, then higher levels are meaningless.",
+"If checked, all other workflows become inactive.",
+"If checked, the Home page will be the default Item Group for the website.",
+"If image is selected, color will be ignored (attach first)",
+If non standard port (e.g. 587),
+"If these instructions where not helpful, please add in your suggestions on GitHub Issues.",
+"If you are inserting new records (overwrite not checked) \
+			and if you have submit permission, the record will be submitted.",
+"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.",
+"If you are uploading a child table (for example Item Price), the all the entries of that table will be deleted (for that parent record) and new entries will be made.",
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.",
+"If you are uploading new records, leave the ""name"" (ID) column blank.",
+"If you set this, this Item will come in a drop-down under the selected parent.",
+Ignore Encoding Errors,
+Ignore User Permissions,
+"Ignoring Item {0}, because a group exists with the same name!","A(z) {0} elem figyelmen kívül hagyva, mert van ilyen néven csoport!"
+Image,Kép
+Image Link,Kép linkje
+Import,Importálás
+Import / Export Data,Adatok importálása / exportálása
+Import / Export Data from .csv files.,Adatok importálása / exportálása .csv fájlból.
+Import Data,Adat importálása
+Import Failed!,
+Import Successful!,
+In,tartalmazza
+In Dialog,
+"In Excel, save the file in CSV (Comma Delimited) format",
+In Filter,Szűrőben
+"In JSON as <pre>[{""title"":""Jobs"", ""name"":""jobs""}]</pre>",
+In List View,Listanézetben
+In Report Filter,
+In points. Default is 9.,
+In response to,
+Incorrect value in row {0}: {1} must be {2} {3},Érvénytelen érték a {0} sorban: a(z) {1} értéke muszáj {2} {3}
+Incorrect value: {0} must be {1} {2},
+Indent (Tab),
+Index,
+Individuals,Magánszemélyek
+Info,Infó
+Info:,
+Insert,
+Insert After,Beszúrás utána
+"Insert After field '{0}' mentioned in Custom Field '{1}', does not exist",
+Insert Below,Beszúrás elé
+Insert Code,Kód beszúrása
+Insert Link,
+Insert Row,Sor beszúrása
+Insert Style,Stílus beszúrása
+Insert picture (or just drag & drop),
+Install Applications.,Alkalmazások telepítése.
+Installed,Telepítve
+Installer,Telepítő
+Int,
+Integrations,
+Introduce your company to the website visitor.,
+Introduction,
+Introductory information for the Contact Us Page,
+Invalid Email: {0},
+Invalid Filter: {0},
+Invalid Home Page,
+Invalid Login,
+Invalid Outgoing Mail Server or Port,
+Invalid Request,
+Invalid login or password,
+Invalid naming series (. missing),
+Invalid recipient address,
+Inverse,Inverz
+Is Active,Aktív?
+Is Child Table,
+Is Default,
+Is Event,
+Is Mandatory Field,
+Is Single,
+Is Standard,
+Is Submittable,
+Is Task,
+Item cannot be added to its own descendents,
+"JSON list of DocTypes used to apply User Permissions. If empty, all linked DocTypes will be used to apply User Permissions.",
+JavaScript Format: frappe.query_reports['REPORTNAME'] = {},
+Javascript,
+Javascript to append to the head section of the page.,
+Keep a track of all communications,
+Key,Fő
+Label,Felirat
+Label Help,Felirat súgó
+Label and Type,
+Label is mandatory,
+Landing Page,
+Language,Nyelv
+Language preference for user interface (only if available).,A felhasználói felület nyelvi beállítása (ha elérhető)
+"Language, Date and Time settings",
+Last Comment,
+Last IP,Utolsó IP
+Last Login,Utolsó belépés
+Last Name,Keresztnév
+Last Updated By,
+Last Updated On,
+Lato,
+Leave blank for new records,
+Leave blank to repeat always,Üresen hagyva örökké ismétlődik
+Left,Elment
+Letter,
+Letter Head,Levél fejléc
+Letter Head Name,Levél fejléc neve
+Letter Head in HTML,
+Level,Szint
+"Level 0 is for document level permissions, higher levels for field level permissions.","A 0 szint dokumentum szinten szabályozza a hozzáférést, a magasabb szintek mező szinten."
+Like,hasonló
+Link,
+"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)",
+Link to other pages in the side bar and next section,
+Link to the page you want to open,
+Linked In Share,
+Linked With,Összekötni
+List,lista
+List a document type,Adatok listázása
+List of Web Site Forum's Posts.,
+List of patches executed,
+Loading,Betöltés
+Loading Report,Jelentés beöltése
+Loading...,Betöltés...
+Localization,Honosítás
+Location,Tartózkodási hely
+Log of Scheduler Errors,
+Log of error on automated events (scheduler).,
+Login,Belépés
+Login After,Bejelentkezés ezután
+Login Before,Bejelentkezés ezelőtt
+Login Id,
+Login Required,
+Login not allowed at this time,
+Logout,Kilépés
+Long Text,Hosszú szöveg
+Low,Alacsony
+Lucida Grande,
+Mail Password,
+Main Section,Fő rész
+Main Table,
+Make New,
+Make a new,Új
+Make a new record,Új tétel létrehozása
+Make a new {0},Új {0}
+Male,Férfi
+Manage cloud backups on Dropbox,
+Manage uploaded files.,
+Mandatory,
+Mandatory fields required in {0},
+Mandatory:,
+Mark the field as Mandatory,
+Master,Fő adat
+Max Attachments,Max. mellékletek száma
+Max width for type Currency is 100px in row {0},
+Maximum Attachment Limit for this record reached.,
+"Meaning of Submit, Cancel, Amend",
+Medium,Átlagos
+"Menu items in the Top Bar. For setting the color of the Top Bar, go to <a href=""#Form/Style Settings"">Style Settings</a>",
+Merge with existing,
+Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,
+Message,Üzenet
+Message Examples,
+Message to be displayed on successful completion,
+Messages,Üzenetek
+Messages from everyone,Üzenet mindenkitől
+Method,
+Middle Name (Optional),Középső név (opcionális)
+Misc,Egyéb
+Miscellaneous,Egyéb
+Missing Values Required,
+Modern,
+Modified by,
+Module,Modul
+Module Def,Modulok megadása
+Module Name,Modul neve
+Module Not Found,
+Modules Setup,Modulok beállítása
+Monday,Hétfő
+Monochrome,
+More,Tovább
+More content for the bottom of the page.,
+Move Down: {0},Mozgatás le: {0}
+Move Up: {0},Mozgatás fel: {0}
+Multiple root nodes not allowed.,
+Must have report permission to access this report.,
+Must specify a Query to run,
+My Settings,Beállításaim
+Name,Név
+Name Case,
+Name and Description,Név és leírás
+Name is required,
+Name not permitted,
+Name not set via Prompt,
+Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer,
+Name of {0} cannot be {1},
+Naming,
+Naming Series mandatory,
+Nested set error. Please contact the Administrator.,
+New,Új
+New Name,
+New Password,Új jelszó
+New Record,Új tétel
+New comment on {0} {1},
+New password emailed,
+New value to be set,
+New {0},
+Next Communcation On,Következő megbeszélés dátuma
+Next Record,Következő sor
+Next State,Következő állapot
+Next actions,Következő művelet
+No,Nem
+No Action,Nincs tennivaló
+No Communication tagged with this {0} yet.,
+No Copy,Nincs másolat
+No Permissions set for this criteria.,
+No Report Loaded. Please use query-report/[Report Name] to run a report.,
+No Results,
+No Sidebar,
+No User Permissions found.,Nem található felhasználói jogosultság.
+No data found,
+No file attached,
+No further records,Nincs több sor
+No one,Senki
+No permission to '{0}' {1},
+No permission to edit,
+No permission to read {0},
+No permission to write / remove.,Nincs jogosultság írni / törölni.
+No records tagged.,Nincs cimkézett tétel.
+No template found at path: {0},
+No {0} found,
+No {0} permission,
+None,Nincs
+None: End of Workflow,
+Not Found,Nem található
+Not Linked to any record.,
+Not Permitted,Nem engedélyezett
+Not Published,
+Not Set,
+Not Submitted,Nincs elküldve
+Not a valid Comma Separated Value (CSV File),
+Not allowed,
+Not allowed from this IP Address,
+Not allowed to Import,
+Not allowed to access {0} with {1} = {2},
+Not allowed to change {0} after submission,
+Not allowed to reset the password of {0},
+Not enough permission to see links.,
+Not equals,nem egyenlő
+Not found,Nem található
+Not in Developer Mode! Set in site_config.json,
+Not permitted,Nem engedélyezett
+"Note: For best results, images must be of the same size and width must be greater than height.",
+Note: Other permission rules may also apply,Megjegyzés: Egyéb jogosultsági szabályok is érvényben lehetnek
+Note: fields having empty value for above criteria are not filtered out.,
+Notes:,Jegyzet:
+Nothing to show,Nincs itt semmi látnivaló
+Nothing to show for this selection,Nincs mit mutatni
+Notification Count,
+Notify by Email,Email emlékeztető
+Number Format,Szám formátum
+Number list,
+Old Parent,
+Old Password,
+On,
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).",
+One of,
+Only Administrator allowed to create Query / Script Reports,
+Only Administrator can save a standard report. Please rename and save.,
+Only Allow Edit For,Csak ő szerkesztheti
+Only allowed {0} rows in one import,
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,
+Oops! Something went wrong,
+Open,Megnyitva
+Open Count,
+Open Link,
+Open Link in a new Window,
+Open Sans,
+Open Source Web Applications for the Web,
+Open a module or tool,Modul vagy eszköz megnyitása
+Open this saved file in Notepad,
+Open {0},
+Optional: Alert will only be sent if value is a valid email id.,
+Optional: Always send to these ids. Each email id on a new row,
+Optional: The alert will be sent if this expression is true,
+Options,Választási lehetőségek
+Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',
+Options Help,Segítség az opciókhoz
+Options for select. Each option on a new line. e.g.: <br>Option 1<br>Option 2<br>Option 3<br>,
+Options must be a valid DocType for field {0} in row {1},
+Options not set for link field {0},
+Options requried for Link or Table type field {0} in row {1},
+Org History,
+Org History Heading,
+Original Message,Eredeti üzenet
+Other,Egyéb
+Outgoing Email Settings,Kimenő email beállítások
+Outgoing Mail Server,Kimenő levelező szerver
+Outgoing Mail Server not specified,
+Overwrite,
+Owner,
+PDF Page Size,PDF oldalméret
+PDF Settings,PDF beállítások
+POP3 Mail Server (e.g. pop.gmail.com),
+Page,Oldal
+Page Background,Oldal háttere
+Page HTML,HTML oldal
+Page Header,
+Page Header Background,
+Page Header Text,
+Page Links,
+Page Name,Oldal neve
+Page Role,
+Page Text,Oldal szövege
+Page content,Oldal tartalma
+Page missing or moved,
+Page not found,Oldal nem található
+"Page to show on the website
+",
+Page url name (auto-generated),
+Paragraph,
+Parent,
+Parent Label,
+Parent Post,
+Parent Table,
+Parent Web Page,
+Parent Website Group,Szülő webhely csoport
+Parent Website Route,
+Participants,Résztvevők
+Password,Jelszó
+Password Reset,
+Password Update,
+Password Update Notification,
+Password Updated,Jelszó frissítve
+Password reset instructions have been sent to your email,
+Patch,Javítócsomag
+Patch Log,Frissítési napló
+Percent,Százalék
+Performing hardcore import process,
+Perm Level,
+Permanently Cancel {0}?,
+Permanently Submit {0}?,
+Permanently delete {0}?,
+Permission Level,Jogosultsági szint
+Permission Levels,Jogosultsági szintek
+Permission Rules,Jogosultsági szabályok
+Permission already set,
+Permissions,Jogosultságok
+Permissions Settings,Jogosultság beállításai
+Permissions Updated,
+Permissions are automatically translated to Standard Reports and Searches.,
+"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.",
+Permissions at higher levels are 'Field Level' permissions. All Fields have a 'Permission Level' set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,
+"Permissions at level 0 are 'Document Level' permissions, i.e. they are primary for access to the document.",
+Permissions can be managed via Setup &gt; Role Permissions Manager,
+Permissions get applied on Users based on what Roles they are assigned.,
+Permitted Documents For User,Felhasználónak engedélyezett dokumentumok
+Person,Személy
+Personal Info,Személyes adatok
+Phone,Telefon
+Phone No.,Telefonszám
+Pick Columns,
+Picture URL,
+Pincode,Irányítószám
+Please attach a file first.,
+Please attach a file or set a URL,
+Please click on the following link to set your new password,
+Please do not change the rows above {0},
+Please do not change the template headings.,
+Please enable pop-ups,
+Please enter Event's Date and Time!,
+"Please enter both your email and message so that we \
+				can get back to you. Thanks!",
+Please enter email address,Emailcím megadása
+Please enter some text!,
+Please enter title!,
+Please login to Upvote!,
+Please login to create a new {0},
+Please make sure that there are no empty columns in the file.,
+Please refresh to get the latest document.,
+Please reply above this line or remove it if you are replying below it,
+Please save before attaching.,
+Please save the document before assignment,
+Please save the document before removing assignment,
+Please select a file or url,
+Please select atleast 1 column from {0} to sort,
+Please set filters,
+Please set {0} first,
+Please specify,
+Please specify 'Auto Email Id' in Setup > Outgoing Email Settings,Kérem adja meg az 'Auto Email Id' adatait a Beállítások > Kimenő email beállítások alatt
+Please specify Event date and time,
+Please specify doctype,
+Please specify user,
+Please specify which date field must be checked,
+Please specify which value field must be checked,
+Please upload using the same template as download.,
+Plugin,
+Port,
+Post,Hozzászólás
+Post Publicly,Küldés mindenkinek
+Post Topic,
+Post already exists. Cannot add again!,"A poszt már létezik, nem rakható ki ismét!"
+Post does not exist. Please add post!,
+Post to user,Küldés a felhasználónak
+Posts,
+Precision,
+Precision should be between 1 and 6,
+Press Esc to close,
+Previous Record,Előző sor
+Primary,Elsődleges
+Print,Nyomtatás
+Print Format,Nyomtatvány sablon
+Print Format Help,
+Print Format Type,Nyomtatvány sablon típusa
+Print Format {0} does not exist,
+Print Format {0} is disabled,
+Print Hide,
+Print Settings,Nyomtatás beállítások
+Print Style,Nyomtatványok stílusa
+Print Style Preview,Nyomtatvány stílus előnézet
+Print Width,
+"Print Width of the field, if the field is a column in a table",
+"Print with Letterhead, unless unchecked in a particular Document",
+Print...,Nyomtatás...
+Printing and Branding,Nyomtatás és márkaépítés
+Priority,Prioritás
+Private,Magán
+Properties,Tulajdonságok
+Property,Tulajdonság
+Property Setter,Tulajdonságbeállító
+Property Setter overrides a standard DocType or Field property,
+Property Type,
+Public,Nyilvános
+Published,Közzétett
+Published On,Közzétette
+Published on website at: {0},
+Pull Emails from the Inbox and attach them as Communication records (for known contacts).,
+Query,Lekérdezés
+Query Options,
+Query Report,
+Query must be a SELECT,
+Quick Help for Setting Permissions,Segítség a jogosultság beállításaihoz
+Quick Help for User Permissions,
+Re-open,
+Read,Olvasás
+Read Only,Csak olvasható
+Received,Kapott
+Recipient,Címzett
+Recipients,Címzettek
+Record does not exist,
+Reduce indent (Shift+Tab),
+Ref DocType,
+Ref Name,Hivatkozott tétel
+Ref Type,Hivatkozás típusa
+Reference,Kapcsolat
+Reference DocName,
+Reference DocType,
+Reference Name,Hivatkozott tétel
+Reference Type,Hivatkozás típusa
+Refresh,Frissítés
+Refresh Form,
+Refreshing...,Frissítés...
+Registered but disabled.,"Regisztrált, de tiltott."
+Registration Details Emailed.,Regisztrációs adatok elküldve.
+Reload Page,Oldal újratöltése
+Remove Bookmark,
+Remove Filter,
+Remove Link,
+Remove all customizations?,
+Removed {0},
+Rename,
+Rename many items by uploading a .csv file.,
+Rename {0},
+Rename...,Átnevezés...
+Repeat On,Ismétlődik
+Repeat Till,Eddig ismétlődik
+Repeat this Event,Esemény ismétlése
+Replies,
+Report,Jelentés
+Report Builder,
+Report Builder reports are managed directly by the report builder. Nothing to do.,
+Report Hide,
+Report Manager,
+Report Name,Jelentés neve
+Report Type,Jelentés típusa
+Report an Issue,Hiba jelentése
+Report cannot be set for Single types,
+Report this issue,
+Report was not saved (there were errors),
+Report {0} is disabled,
+Represents a User in the system.,
+Represents the states allowed in one document and role assigned to change the state.,
+Reqd,
+Reset Password,
+Reset Password Key,
+Reset Permissions for {0}?,
+Reset to defaults,
+Response,
+Restore Original Permissions,
+Restrict IP,IP korlátozás
+Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),
+Right,
+Role,Beosztás
+Role Name,Beosztás neve
+Role Permissions,
+Role Permissions Manager,Beosztás jogosultság kezelő
+Role and Level,
+Role exists,
+Roles,Beosztások
+Roles Assigned,Kijelölt beosztások
+Roles Assigned To User,Felhasználóhoz kötött beosztások
+Roles HTML,
+Roles can be set for users from their User page.,
+Root {0} cannot be deleted,
+Row,Sor
+Row #{0}:,
+Row {0}: Not allowed to enable Allow on Submit for standard fields,
+Rules defining transition of state in the workflow.,
+"Rules for how states are transitions, like next state and which role is allowed to change state etc.",
+Run scheduled jobs only if checked,
+Run the report first,
+SMTP Server (e.g. smtp.gmail.com),
+Sales,Értékesítés
+Sales Manager,
+Sales User,
+Same file has already been attached to the record,
+Sample,
+Saturday,Szombat
+Save,Mentés
+Saved!,
+Scheduler Log,Ütemezési napló
+Script,
+Script Report,
+Script Type,
+Script to attach to all web pages.,
+Search,Keresés
+Search Fields,Mezőkben keresés
+Search Fields should contain valid fieldnames,
+Search Filter,
+Search Link,
+Search in a document type,Keresés adatok között
+Search or type a command,Keresés vagy parancs
+Section Break,
+Security,Biztonság
+Security Settings,Biztonsági beállítások
+Select,Választás
+Select All,Mindent kijelöl
+Select Attachments,
+Select DocType,
+Select Document Type,Válassz dokumentum típust
+Select Document Type or Role to start.,
+Select Document Types,
+Select Document Types to set which User Permissions are used to limit access.,
+Select Print Format,
+Select Report Name,
+Select Role,Válassz beosztást
+Select To Download:,
+Select Type,Válassz típust
+Select User,
+Select User or DocType to start.,
+Select a Banner Image first.,
+Select an image of approx width 150px with a transparent background for best results.,
+"Select modules to be shown (based on permission). If hidden, they will be hidden for all users.",
+Select or drag across time slots to create a new event.,
+"Select target = ""_blank"" to open in a new page.",
+Select the label after which you want to insert new field.,
+Select {0},
+Send,Küldés
+Send Alert On,
+Send As Email,
+Send Email,Email küldése
+Send Email Print Attachments as PDF (Recommended),
+Send Me A Copy,
+Send Print as PDF,Nyomtatvány küldése PDF-ben
+Send alert if date matches this field's value,
+Send alert if this field's value changes,
+Send an email reminder in the morning,Reggel email emlékeztető küldése
+Send download link of a recent backup to System Managers,
+Send enquiries to this email address,
+Sender,Küldő
+Sent,Elküldött
+Sent Mail,Elküldött email
+Sent Quotation,Elküldött árajánlat
+Sent or Received,Elküldött vagy kapott
+Series,Sorszám
+Series {0} already used in {1},{0} sorszám már használva van itt: {1}
+Server,Szerver
+Server & Credentials,Szerver beállítások
+Server Error: Please check your server logs or contact tech support.,
+Session Expired. Logging you out,Lejárt a munkamenet időkorlátja. Ki kell lépni a programból.
+Session Expiry,Munkamenet lejárati ideje
+Session Expiry in Hours e.g. 06:00,Munkamenet lejárati ideje órában: pl. 06:00
+Session Expiry must be in format {0},
+Set,
+Set Banner from Image,Banner létrehozása képből
+Set Link,
+Set Login and Password if authentication is required.,
+Set Only Once,
+Set Password,Jelszó beállítása
+Set Permissions on Document Types and Roles,
+Set Permissions per User,
+Set User Permissions,
+Set Value,Érték megadása
+"Set default format, page size, print style etc.",
+Set non-standard precision for a Float or Currency field,
+Set numbering series for transactions.,
+Set outgoing mail server.,
+Set the display label for the field,
+"Set your background color, font and image (tiled)",
+Settings,Beállítások
+Settings for About Us Page.,
+Settings for Contact Us Page,
+Settings for Contact Us Page.,
+Settings for the About Us Page,
+Setup,Beállítások
+Setup > User,
+Setup > User Permissions Manager,
+Setup Email Alert based on various criteria.,
+Setup of fonts and background.,
+"Setup of top navigation bar, footer and logo.",
+Short Bio,Rövid életrajz
+Short Name,Rövid név
+Shortcut,Gyorsbillentyű
+Shortcuts,
+Show / Hide Modules,Modulok mutatása / elrejtése
+Show Print First,
+Show Tags,Címkék mutatása
+Show User Permissions,
+Show a description below the field,
+Show or Hide Modules,
+Show or hide modules globally.,
+Show rows with zero values,A nulla értékű sorokat is mutassa
+Show tags,Címkék mutatása
+Show this field as title,
+Sidebar,
+Sidebar Items,
+Sidebar Links for Home Page only,
+Single Post (article).,
+Single Types have only one record no tables associated. Values are stored in tabSingles,
+Slideshow,Diabemutató
+Slideshow Items,
+Slideshow Name,
+Slideshow like display for the website,
+Small Text,Kis szöveg
+Social Login Keys,Közösségi oldalak adatai
+Solid background color (default light gray),
+Sorry we were unable to find what you were looking for.,
+Sorry you are not permitted to view this page.,
+Sort By,Rendezés
+Sort Field,Rendező mező
+Sort Order,Rendezési sorrend
+Specify a default value,
+Specify the value of the field,
+Sr No,
+Standard,
+Standard Print Format cannot be updated,
+Standard Reply,Válasz sablonok
+Standard Reports,Általános jelentések
+Standard replies to common queries.,
+Start Report For,
+Start entering data below this line,
+Starts on,Kezdődik
+State,Állapot
+States,
+"States for workflow (e.g. Draft, Approved, Cancelled).","Munkafolyamat állapota (pl. vázlat, jóváhagyva, törölve)"
+Status,Állapot
+Step 1: Set the name and save.,
+Step 2: Set Letterhead content.,
+Style,Stílus
+Style Settings,Stílus beállításai
+"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange",
+Sub-domain provided by erpnext.com,
+Subdomain,
+Subject,Tárgy
+Submit,Leadás
+Submit an Issue,
+Submitted,Elküldve
+Submitted Document cannot be converted back to draft. Transition row {0},
+Success,Sikerült
+Success Message,
+Success URL,
+Suggestion,Javaslat
+Sunday,Vasárnap
+Support Manager,
+Support Team,
+Switch to Website,Átváltás a weboldalra
+Sync Inbox,
+Syntax error in Jinja template,
+System,Rendszer
+System Manager,
+System Settings,Rendszer beállításai
+System User,Rendszer-felhasználó
+System and Website Users,
+System generated mails will be sent from this email id.,A rendszer által küldött levelek erről a címről mennek ki.
+Table,Tábla
+Table {0} cannot be empty,
+Tag,Címke
+Tag Name,Címke neve
+Tags,Címkék
+Tahoma,
+Target,Cél
+Tasks,feladatok
+Team Members,Szervezeti felépítés
+Team Members Heading,Szervezeti felépítés fejszövege
+Template Path,
+Test Runner,
+Text,Szöveg
+Text Align,Szöveg igazítása
+Text Editor,Szövegszerkesztő
+Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,
+Thank you,
+Thank you for your message,
+The name of your company / website as you want to appear on browser title bar. All pages will have this as the prefix to the title.,
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,
+"The task %s, that you assigned to %s, has been closed by %s.",
+"The task %s, that you assigned to %s, has been closed.",
+Then By (optional),
+There can be only one Fold in a form,
+There should remain at least one System Manager,
+There were errors,
+There were errors while sending email. Please try again.,
+"There were some errors setting the name, please contact the administrator",
+"These permissions will apply for all transactions where the permitted record is linked. For example, if Company C is added to User Permissions of user X, user X will only be able to see transactions that has company C as a linked value.",
+These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,
+"These will also be set as default values for those links, if only one such permission record is defined.",
+Third Party Authentication,Egyéb azonosítók megadása
+"This field will appear only if the fieldname defined here has value OR the rules are true (examples): <br>
+myfield
+eval:doc.myfield=='My Value'<br>
+eval:doc.age>18",
+This form does not have any input,
+This goes above the slideshow.,
+This is PERMANENT action and you cannot undo. Continue?,"Ez VÉGLEGES művelet, nem lehet visszavonni! Folytatható?"
+"This is a standard format. To make changes, please copy it make make a new format.",
+This is permanent action and you cannot undo. Continue?,"Ez VÉGLEGES művelet, nem lehet visszavonni! Folytatható?"
+This must be checked if Style Settings are applicable,
+This role update User Permissions for a user,
+Thursday,Csütörtök
+Tile,Mozaik
+Time,Idő
+Time Zone,Időzóna
+Timezone,Időzóna
+Title,Cím
+Title / headline of your page,
+Title Case,
+Title Field,
+Title Prefix,
+Title field must be a valid fieldname,
+Title is required,
+To,eddig
+To Do,Tennivaló
+"To format columns, give column labels in the query.",
+"To give acess to a role for only specific records, check the 'Apply User Permissions'. User Permissions are used to limit users with such role to specific records.",
+"To run a test add the module name in the route after '{0}'. For example, {1}",
+ToDo,Tennivalók
+Too many writes in one request. Please send smaller requests,
+Top Bar,
+Top Bar Background,
+Top Bar Item,
+Top Bar Items,
+Top Bar Text,
+Top Bar text and background is same color. Please change.,
+Transaction,Tranzakció
+Transition Rules,
+Tuesday,Kedd
+Tweet will be shared via your user account (if specified),
+Twitter Share,
+Twitter Share via,
+Type,Típus
+Type:,
+"Unable to display this tree report, due to missing data. Most likely, it is being filtered out due to permissions.",
+Unable to find attachment {0},
+Unable to load: {0},
+Unable to open attached file. Please try again.,Nem sikerült megnyitni a mellékletet. Próbálja meg később újra.
+Unable to send emails at this time,
+Unknown Column: {0},
+"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.",
+Unread Messages,
+Unsubscribe,Leiratkozás
+Unsubscribed,
+Upcoming Events for Today,"A mai nap eseményei, teendői"
+Update,Frissítés
+Update Field,Mező frissítése
+Update Value,Érték frissítése
+Updated,Frissítve
+Upload,feltöltés
+Upload Attachment,Melléklet feltöltése
+Upload CSV file containing all user permissions in the same format as Download.,
+Upload User Permissions,
+Upload a file,Fájl feltöltése
+Upload and Import,Feltöltés és importálás
+Upload and Sync,
+Uploading...,Feltöltés...
+Upvotes,Plusz-szavazat
+Use TLS,
+Use the field to filter records,
+User,Felhasználó
+User Cannot Create,
+User Cannot Search,
+User Defaults,
+User ID of a Blogger,
+User ID of a blog writer.,
+User Image,Felhasználó képe
+User Permission,
+User Permission DocTypes,
+User Permissions,
+User Permissions Manager,Felhasználói jogosultság kezelő
+User Roles,
+User Tags,Felhasználó címkéi
+User Type,Felhasználó típusa
+"User Type ""System User"" can access Desktop. ""Website User"" can only be logged into the website and portal pages. ",
+User Vote,
+User editable form on Website.,
+User not allowed to delete {0}: {1},
+User permissions should not apply for this Link,
+User {0} cannot be deleted,A {0} felhasználó nem törölhető
+User {0} cannot be disabled,
+User {0} cannot be renamed,
+User {0} does not exist,A(z) {0} felhasználó nem létezik
+UserRole,
+Users,Felhasználók
+Users and Permissions,Felhasználók és jogosultságok
+Users with role {0}:,
+Valid Login id required.,
+Valid email and name required,
+Value,Érték
+Value Change,
+Value Changed,
+Value cannot be changed for {0},
+Value for a check field can be either 0 or 1,Az ellenőrző mező értéke 1 vagy 0 lehet
+Value missing for,
+Verdana,
+Verify Your Account,
+Version,Verzió
+Version restored,Verzió visszaállítva
+View Details,Részletek
+View it in your browser,
+Visit,Személyesen
+Warning,Vigyázat
+Warning: This Print Format is in old style and cannot be generated via the API.,
+"We are very sorry for this, but the page you are looking for is missing (this could be because of a typo in the address) or moved.",
+Web Form,
+Web Form Field,
+Web Form Fields,
+Web Page,Weboldal
+Web Page Link Text,
+Web Site Forum Page.,
+Website,Webhely
+Website Group,Webhely csoport
+Website Manager,
+Website Route,
+Website Route Permission,
+Website Script,Weboldal szkript
+Website Settings,Webhely beállításai
+Website Slideshow,Webhely diavetítés
+Website Slideshow Item,
+Website URL,
+Website User,Webhely használó
+Wednesday,Szerda
+Welcome email sent,
+"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.",
+While uploading non English files ensure that the encoding is UTF-8.,
+Width,Szélesség
+Width of the input box,
+Will be used in url (usually first name).,
+With Groups,
+With Ledgers,
+With Letterhead,
+Workflow,Munkafolyamat
+Workflow Action,Munkafolyamat művelet
+Workflow Action Master,
+Workflow Action Name,Munkafolyamat művelet neve
+Workflow Document State,
+Workflow Document States,Munkafolyamat dokumentum állapotok
+Workflow Name,Munkafolyamat neve
+Workflow State,Munkafolyamat állapot
+Workflow State Field,Munkafolyamat állapotmező
+Workflow Transition,
+Workflow Transitions,Munkafolyamat átvezetések
+Workflow state represents the current state of a document.,
+Workflow will start after saving.,A Munkafolyamat a mentés után kezdődik.
+Write,
+Write a Python file in the same folder where this is saved and return column and result.,
+Write a SELECT query. Note result is not paged (all data is sent in one go).,
+Write titles and introductions to your blog.,
+Writers Introduction,
+Year,Év
+Yes,Igen
+Yesterday,Tegnap
+You are not allowed to create / edit reports,
+You are not allowed to export the data of: {0}. Downloading empty template.,
+You are not allowed to export this report,
+You are not allowed to print this document,Nem nyomtathatod ki ezt a dokumentumot
+You are not allowed to send emails related to this document,
+You can also copy-paste this link in your browser,
+You can also drag and drop attachments,Húzd és vidd módszerrel is csatolható melléklet ide
+"You can change Submitted documents by cancelling them and then, amending them.",
+You can only upload upto 5000 records in one go. (may be less in some cases),
+You can use Customize Form to set levels on fields.,
+You can use wildcard %,
+You cannot install this app,Nem telepítheted ezt az alkalmazást
+You don't have access to Report: {0},
+You don't have permission to get a report on: {0},
+You have unsaved changes in this form. Please save before you continue.,
+You must login to submit this form,
+You need to be logged in and have System Manager Role to be able to access backups.,
+You need write permission to rename,
+"You seem to have written your name instead of your email. \
+					Please enter a valid email address so that we can get back.",
+"Your download is being built, this may take a few moments...",
+Your login id is,
+Your password has been updated. Here is your new password,
+[Label]:[Field Type]/[Options]:[Width],
+[No Subject],[Üres a tárgy]
+[Optional] Send the email X days in advance of the specified date. 0 equals same day.,
+[no content],[nincs tartalom]
+[unknown sender],[ismeretlen küldő]
+add your own CSS (careful!),
+adjust,
+align-center,igazítás-középre
+align-justify,igazítás-sorkizárt
+align-left,igazítás-balra
+align-right,igazítás-jobbra
+and,és
+arrow-down,nyíl-le
+arrow-left,nyíl-bal
+arrow-right,nyíl-jobb
+arrow-up,nyíl-fel
+asterisk,
+backward,
+ban-circle,
+barcode,Vonalkód
+beginning with,
+bell,csengő
+bold,félkövér
+book,könyv
+bookmark,könyvjelző
+briefcase,
+bullhorn,ködkűrt
+calendar,Naptár
+camera,
+certificate,
+check,
+chevron-down,
+chevron-left,
+chevron-right,
+chevron-up,chevron-up
+circle-arrow-down,kör-nyíl-le
+circle-arrow-left,kör-nyíl-bal
+circle-arrow-right,kör-nyíl-jobb
+circle-arrow-up,kör-nyíl-fel
+cog,
+comment,Megjegyzés
+dd-mm-yyyy,nn-hh-éééé
+dd.mm.yyyy,nn/hh/éééé
+dd/mm/yyyy,nn/hh/éééé
+download,letöltés
+download-alt,
+edit,Szerkesztés
+eject,
+envelope,boríték
+exclamation-sign,felkiáltó-jel
+eye-close,szem-bezárt
+eye-open,szem-nyitott
+facetime-video,
+fast-backward,gyors-vissza
+fast-forward,gyors-előre
+file,Fájl
+film,
+filter,Szűrő
+fire,
+flag,
+folder-close,mappa-bezárt
+folder-open,mappa-nyitva
+font,
+forward,
+fullscreen,
+gift,
+glass,üveg
+globe,
+hand-down,kéz-le
+hand-left,
+hand-right,kéz-jobb
+hand-up,kéz-fel
+hdd,
+headphones,
+heart,szív
+home,Kezdő oldal
+icon,Ikon
+inbox,bejövő
+indent-left,behúzás-balra
+indent-right,bekezdés-jobb
+info-sign,infó-jel
+is not allowed.,nem engedélyezett.
+italic,dőlt
+leaf,levél
+lft,
+list,lista
+list-alt,
+lock,zár
+lowercase,kisbetűs
+magnet,
+map-marker,térkép-jelölő
+memcached is not working / stopped. Please start memcached for best results.,
+minus,
+minus-sign,mínusz-jel
+mm-dd-yyyy,hh-nn-éééé
+mm/dd/yyyy,hh/nn/éééé
+move,
+music,zene
+none of,
+off,ki
+ok,
+ok-circle,ok-kör
+ok-sign,ok-jel
+one of,
+or,vagy
+pause,szünet
+pencil,
+picture,kép
+plane,
+play,indítás
+play-circle,lejátszás-kör
+plus,plusz
+plus-sign,plusz-jel
+print,Nyomtatás
+qrcode,
+question-sign,kérdőjel
+random,Véletlen
+reference,Kapcsolat
+refresh,Frissítés
+remove,eltávolítás
+remove-circle,törlés-kör
+remove-sign,törlés-jel
+repeat,ismétlés
+resize-full,átméretezés-teljes
+resize-horizontal,átméretezés-vízszintes
+resize-small,átméretezés-kicsire
+resize-vertical,átméretezés-függőleges
+retweet,
+rgt,
+road,út
+screenshot,képernyőkép
+search,Keresés
+share,Megosztás
+share-alt,
+shopping-cart,bevásárló-kosár
+signal,
+star,csillag
+star-empty,csillag-üres
+step-backward,visszalépés
+step-forward,előrelépés
+stop,Megáll
+tag,Címke
+tags,Címkék
+"target = ""_blank""",
+tasks,feladatok
+text-height,szöveg-magasság
+text-width,szöveg-szélesség
+th,
+th-large,
+th-list,
+thumbs-down,hüvelykujj-le
+thumbs-up,hüvelykujj-fel
+time,Idő
+tint,
+to,eddig
+to filter values between 5 & 10,
+trash,Kuka
+upload,feltöltés
+use % as wildcard,
+user,Felhasználó
+user_image_show,
+value,Érték
+values and dates,
+values separated by commas,
+volume-down,hangerő csökkentés
+volume-off,hangerő ki
+volume-up,hangerő növelés
+warning-sign,figyelmeztető jel
+wrench,
+yyyy-mm-dd,éééé-hh-nn
+zoom-in,Nagyítás
+zoom-out,Kicsinyítés
+{0} List,{0} lista
+{0} added,
+{0} already exists,
+{0} by {1},
+{0} cannot be set for Single types,
+{0} does not exist in row {1},
+{0} in row {1} cannot have both URL and child items,
+{0} is not a valid email id,
+{0} is required,
+{0} is saved,
+{0} must be one of {1},
+{0} must be set first,
+{0} not a valid State,
+{0} not allowed in fieldname {1},
+{0} not allowed in name,
+{0} not allowed to be renamed,
+{0} updated,
+{0} {1} already exists,{0} {1} már létezik
+"{0} {1} cannot be ""{2}"". It should be one of ""{3}""",
+{0} {1} cannot be a leaf node as it has children,
+"{0} {1} does not exist, select a new target to merge",
+{0} {1} not found,
+{0} {1}: Submitted Record cannot be deleted.,
+{0}: Cannot set Amend without Cancel,
+{0}: Cannot set Assign Amend if not Submittable,
+{0}: Cannot set Assign Submit if not Submittable,
+{0}: Cannot set Cancel without Submit,
+{0}: Cannot set Import without Create,
+"{0}: Cannot set Submit, Cancel, Amend without Write",
+{0}: Cannot set import as {1} is not importable,
+"{0}: Create, Submit, Cancel and Amend only valid at level 0",
+{0}: No basic permissions set,
+"{0}: Only one rule allowed with the same Role, Level and Apply User Permissions",
+{0}: Permission at level 0 must be set before higher levels are set,
+{app_title},
